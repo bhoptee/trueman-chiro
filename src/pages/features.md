@@ -30,11 +30,17 @@ sections:
   - type: section_pricing
     background: gray
     pricing_plans:
-      - highlight: false
+      - highlight: true
         type: pricing_plan
-        title: Treatment 1
-        price: "2000"
-        details: details
+        title: Initial Consultation
+        price: £48
+        details: 30 Minute session
+        actions:
+          - new_window: false
+            type: action
+            label: Book now
+            url: /contact
+            primary: true
     title: Initial Consultation
   - type: section_content
     background: gray
