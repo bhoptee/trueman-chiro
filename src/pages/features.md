@@ -27,14 +27,15 @@ sections:
       - type: action
         label: View Demo
         url: "#"
-  - type: section_cta
-    title: This Is Call to Action Block!
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        label: Get Started
-        url: "#"
+  - type: section_pricing
+    background: gray
+    pricing_plans:
+      - highlight: false
+        type: pricing_plan
+        title: Treatment 1
+        price: "2000"
+        details: details
+    title: Initial Assessment
   - type: section_content
     background: gray
     title: Treatment 2
