@@ -28,17 +28,17 @@
         "url": "/style-guide"
       },
       {
-        "type": "action",
-        "label": "Book an appointment",
-        "url": "/contact",
-        "primary": true
-      },
-      {
         "new_window": false,
         "type": "action",
         "label": "Blog",
         "url": "/blog",
         "primary": false
+      },
+      {
+        "type": "action",
+        "label": "Book an appointment",
+        "url": "/contact",
+        "primary": true
       }
     ]
   },
