@@ -35,7 +35,7 @@ sections:
         title: Treatment 1
         price: "2000"
         details: details
-    title: Initial Assessment
+    title: Initial Consultation
   - type: section_content
     background: gray
     title: Treatment 2
