@@ -41,9 +41,8 @@ sections:
             label: Book now
             url: /contact
             primary: true
+      - highlight: false
+        type: pricing_plan
     title: Initial Consultation
-  - type: section_content
-    background: gray
-    title: Treatment 2
 template: landing
 ---
