@@ -19,11 +19,6 @@
       },
       {
         "type": "action",
-        "label": "Pricing",
-        "url": "/pricing"
-      },
-      {
-        "type": "action",
         "label": "About",
         "url": "/about"
       },
