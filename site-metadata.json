@@ -32,6 +32,13 @@
         "label": "Sign Up",
         "url": "/signup",
         "primary": true
+      },
+      {
+        "new_window": false,
+        "type": "action",
+        "label": "Blog",
+        "url": "/blog",
+        "primary": true
       }
     ]
   },
