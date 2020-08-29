@@ -14,8 +14,8 @@
       },
       {
         "type": "action",
-        "label": "Features",
-        "url": "/features"
+        "label": "Treatments",
+        "url": "/treatments"
       },
       {
         "type": "action",
