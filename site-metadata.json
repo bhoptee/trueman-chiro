@@ -29,7 +29,7 @@
       },
       {
         "type": "action",
-        "label": "Book an appointment",
+        "label": "Book now",
         "url": "/contact",
         "primary": true
       },
