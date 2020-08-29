@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Treatments
 sections:
   - type: section_content
     title: The Best Features of Your Services
@@ -17,8 +17,7 @@ sections:
       * Phasellus ut enim non lorem venenatis rutrum.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
     image: images/feature1.png
     background: gray
     actions:
@@ -27,7 +26,7 @@ sections:
         url: /signup
       - type: action
         label: View Demo
-        url: '#'
+        url: "#"
   - type: section_cta
     title: This Is Call to Action Block!
     section_id: call-to-action
@@ -35,6 +34,9 @@ sections:
     actions:
       - type: action
         label: Get Started
-        url: '#'
+        url: "#"
+  - type: section_content
+    background: gray
+    title: Treatment 2
 template: landing
 ---
