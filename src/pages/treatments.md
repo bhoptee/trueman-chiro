@@ -43,6 +43,8 @@ sections:
             primary: true
       - highlight: false
         type: pricing_plan
+        title: Treatment Session
+        price: £48
     title: Initial Consultation
 template: landing
 ---
