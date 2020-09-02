@@ -40,7 +40,7 @@ sections:
           25 Minute Session- is for looking at specific exercises in your routine and/or adding in a specific gym based rehabilitation exercise(s). 
 
 
-          50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering additional gym based rehabilitation or performance exercises as needed.
+          50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering gym based rehabilitation or performance exercises as needed.
       - type: feature_item
         title: Dynamic Neuromuscular Stabilition
         image: /images/7.-dns.png
