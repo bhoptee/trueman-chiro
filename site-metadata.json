@@ -13,15 +13,15 @@
         "url": "/"
       },
       {
+        "type": "action",
+        "label": "Appointments",
+        "url": "/appointments"
+      },
+      {
         "new_window": false,
         "type": "action",
         "label": "Therapies",
         "url": "/therapies"
-      },
-      {
-        "type": "action",
-        "label": "Appointments",
-        "url": "/appointments"
       },
       {
         "type": "action",
