@@ -33,7 +33,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: Initial Consultation
-        price: £50
+        price: £65
         details: |-
           50 Minutes
 
