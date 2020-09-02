@@ -26,12 +26,12 @@ sections:
         title: Gym Based Assessment
         image: /images/5.-gym-v2.jpg
         content: >-
-          With the advantage of being based in a facility with a well-appointed
-          gym on site, we're able to offer one to one gym-based assessment and
-          rehabilitation. Being able to assess how you're performing your
-          exercise routine means we can identify key areas to improve and
-          optimise, and/or determine if an aspect of your routine would put you
-          at risk for injury. 
+          With the advantage of being located in a facility with a
+          well-appointed gym on site, we're able to offer one to one gym-based
+          assessment and rehabilitation. Being able to assess how you're
+          performing your exercise routine means we can identify key areas to
+          improve and optimise, and/or determine if an aspect of your routine
+          would put you at risk for injury. 
 
 
           We can assess which exercises to modify or exclude if your in an injury phase, and if you would benefit from additional gym-based exercises to accelerate recovery or reduce the chance of injury recurrence. 
