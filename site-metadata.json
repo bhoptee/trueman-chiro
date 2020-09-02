@@ -14,8 +14,8 @@
       },
       {
         "type": "action",
-        "label": "Treatments",
-        "url": "/treatments"
+        "label": "Appointment",
+        "url": "/appointments"
       },
       {
         "type": "action",
