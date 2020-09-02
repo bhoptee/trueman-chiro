@@ -43,6 +43,6 @@ sections:
           50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering additional gym based rehabilitation or performance exercises as needed.
       - type: feature_item
         title: Dynamic Neuromuscular Stabilition
-        image: /images/6.-dns_anrgb.jpg
+        image: /images/7.-dns.png
 template: landing
 ---
