@@ -1,41 +1,41 @@
 ---
 title: Conditions
 sections:
-  - type: section_content
+  - type: section_features
     background: gray
     title: Conditions
-    content: |-
-      Lower Back Pain
+    features:
+      - type: feature_item
+        content: |-
+          Lower Back Pain
 
-      Thoracic / Mid back Pain
+          Thoracic / Mid back Pain
 
-      Sciatica
+          Sciatica
 
-      Pelvic & Hip Pain
-    image: /images/10.-back-pain.jpg
-  - type: section_content
-    background: gray
-    content: |-
-      Neck Pain
+          Pelvic & Hip Pain
+        image: /images/10.-back-pain.jpg
+      - type: feature_item
+        content: |-
+          Neck Pain
 
-      Headache (Cervicogenic)
+          Headache (Cervicogenic)
 
-      Shoulder Pain
+          Shoulder Pain
 
-      Elbow & Wrist Pain
-    image: /images/9.-shoulder-pain.jpg
-  - type: section_content
-    background: gray
-    content: |-
-      Knee Pain
+          Elbow & Wrist Pain
+        image: /images/9.-shoulder-pain.jpg
+      - type: feature_item
+        content: |-
+          Knee Pain
 
-      Ankle & Foot Pain
+          Ankle & Foot Pain
 
-      Sprains & Strains
+          Sprains & Strains
 
-      Soft Tissue Injury
+          Soft Tissue Injury
 
-      Joint Pain
-    image: /images/8.-knee-pain.jpg
+          Joint Pain
+        image: /images/8.-knee-pain.jpg
 template: landing
 ---
