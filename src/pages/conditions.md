@@ -14,7 +14,7 @@ sections:
           Sciatica
 
           Pelvic & Hip Pain
-        image: /images/10.-back-pain.jpg
+        image: /images/11.-back-pain-v2.jpg
       - type: feature_item
         content: |-
           Neck Pain
