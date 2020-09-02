@@ -46,7 +46,7 @@ sections:
             primary: true
       - highlight: true
         type: pricing_plan
-        title: Treatment Session
+        title: Treatment & Rehabilitation
         price: £48
         actions:
           - new_window: false
@@ -58,6 +58,8 @@ sections:
           25 Minutes
 
           Requires you have attended an initial consultation
+
+          Treatment and prescription or review of exercises / stretches
       - highlight: true
         type: pricing_plan
         title: Gym Based Assessment
@@ -70,6 +72,14 @@ sections:
           Requires you have attended an initial consultation
 
           Non- gym members £5 gym entry fee
+      - highlight: false
+        type: pricing_plan
+        title: Treatment
+        price: £36
+        details: |-
+          15 Mintues
+
+           Treament Session
     title: Appointments
 template: landing
 ---
