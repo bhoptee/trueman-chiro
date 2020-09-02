@@ -15,9 +15,9 @@ sections:
 
       Exercise Prescription & Rehabilitation
 
-      Dynamic Neuromuscular Stabilition Based Rehabilitation
+      Dynamic Neuromuscular Stabilisation Based Rehabilitation
 
-      Gym Based Assessement & Rehabilitation
+      Gym Based Assessment & Rehabilitation
   - type: section_features
     background: gray
     title: ""
