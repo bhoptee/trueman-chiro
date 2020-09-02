@@ -18,7 +18,7 @@
         "url": "/appointments"
       },
       {
-        "new_window": true,
+        "new_window": false,
         "type": "action",
         "label": "Therapies",
         "url": "/therapies"
