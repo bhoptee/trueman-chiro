@@ -37,8 +37,8 @@
       {
         "new_window": false,
         "type": "action",
-        "label": "Blog",
-        "url": "/blog",
+        "label": "Contact",
+        "url": "/contact",
         "primary": false
       },
       {
