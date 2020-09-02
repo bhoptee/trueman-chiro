@@ -1,5 +1,5 @@
 ---
-title: Treatments
+title: Appointments
 sections:
   - type: section_content
     title: The Best Features of Your Services
