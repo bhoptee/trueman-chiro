@@ -17,7 +17,7 @@ sections:
 
       Shoulder Pain
 
-      Elbow, Wrist and Hand Pain
+      Elbow, Wrist & Hand Pain
 
       Knee Pain
 
