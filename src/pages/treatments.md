@@ -54,12 +54,14 @@ sections:
             url: /contact
             primary: true
             label: Book Now
-        details: |-
+        details: >-
           25 Minutes
 
-          Requires you have attended an initial consultation
 
-          Treatment and prescription or review of exercises / stretches
+          Treatment with time available for prescription or review of exercises / stretches
+
+
+          Requires you have attended an Initial Consultation
       - highlight: true
         type: pricing_plan
         title: Gym Based Assessment
@@ -76,10 +78,17 @@ sections:
         type: pricing_plan
         title: Treatment
         price: £36
-        details: |-
-          15 Mintues
+        details: >-
+          15 Minutes
 
-           Treament Session
+
+          Treatment Session
+
+
+          Requires you have attended an Initial Consultation
+
+
+          Relevant once you have become proficient with your exercise prescription
     title: Appointments
 template: landing
 ---
