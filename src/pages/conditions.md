@@ -20,5 +20,7 @@ sections:
       Knee Pain
 
       Ankle & Foot Pain
+
+      Elbow, Wrist and Hand Pain
 template: landing
 ---
