@@ -45,6 +45,13 @@ sections:
         type: pricing_plan
         title: Treatment Session
         price: £48
+        actions:
+          - new_window: false
+            type: action
+            url: /contact
+            primary: true
+            label: Book Now
+        details: Requires you have attended an initial consultation
     title: Initial Consultation
 template: landing
 ---
