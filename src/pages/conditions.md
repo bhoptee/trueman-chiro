@@ -14,7 +14,7 @@ sections:
           Sciatica
 
           Pelvic & Hip Pain
-        image: /images/10.-back-pain.jpg
+        image: ""
       - type: feature_item
         content: |-
           Shoulder Pain
