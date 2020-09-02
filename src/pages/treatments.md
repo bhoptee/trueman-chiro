@@ -35,7 +35,7 @@ sections:
         title: Initial Consultation
         price: £50
         details: |-
-          50 Minute Session
+          50 Minutes
 
           Assessment, Diagnosis and Treament*
         actions:
@@ -55,7 +55,7 @@ sections:
             primary: true
             label: Book Now
         details: |-
-          25 Minute Session
+          25 Minutes
 
           Requires you have attended an initial consultation
     title: Initial Consultation
