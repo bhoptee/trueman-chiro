@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Hello Mark, Here’s your new website.
+    title: ""
     section_id: hero
     content: ""
     image: /images/3.-treatment-image.jpg
