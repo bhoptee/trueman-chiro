@@ -1,9 +1,9 @@
 {
-  "title": "Trueman’s site",
+  "title": "Trueman Chiropractic",
   "palette": "blue",
   "header": {
     "type": "header",
-    "title": "Azimuth",
+    "title": "Trueman Chiropractic",
     "logo_img": "images/logo.png",
     "has_nav": true,
     "nav_links": [
