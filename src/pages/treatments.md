@@ -58,6 +58,6 @@ sections:
           25 Minutes
 
           Requires you have attended an initial consultation
-    title: Initial Consultation
+    title: Appointments
 template: landing
 ---
