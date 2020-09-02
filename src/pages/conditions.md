@@ -36,6 +36,6 @@ sections:
           Soft Tissue Injury
 
           Joint Pain
-        image: /images/8.-knee-pain.jpg
+        image: /images/knee-pain-2.jpg
 template: landing
 ---
