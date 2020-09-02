@@ -65,6 +65,8 @@ sections:
         details: |-
           25 Minutes
 
+          One to One Assessment at the ... Gym
+
           Requires you have attended an initial consultation
 
           Non- gym members £5 gym entry fee
