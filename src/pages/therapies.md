@@ -38,6 +38,6 @@ sections:
           25 Minute Session- is for looking at specific exercises in your routine or adding in a specific set of gym based rehabilitation exercises. 
 
 
-          50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering additional gym based rehabilitation exercise as needed.
+          50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering additional gym based rehabilitation exercises as needed.
 template: landing
 ---
