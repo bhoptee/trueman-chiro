@@ -41,6 +41,12 @@
         "url": "/appointments",
         "primary": true,
         "new_window": false
+      },
+      {
+        "new_window": false,
+        "type": "action",
+        "label": "Conditions",
+        "url": "/conditions"
       }
     ]
   },
