@@ -38,7 +38,7 @@
       {
         "type": "action",
         "label": "Book an appointment",
-        "url": "/",
+        "url": "/contact",
         "primary": true,
         "new_window": false
       }
