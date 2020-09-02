@@ -4,8 +4,7 @@ sections:
   - type: section_hero
     title: Hello Mark, Here’s your new website.
     section_id: hero
-    content: Mark, Using Netlify, Gastby, and NetlifyCMS, you can get up and running
-      instantly.
+    content: ""
     image: /images/3.-treatment-image.jpg
     actions:
       - type: action
