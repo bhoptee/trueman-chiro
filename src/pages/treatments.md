@@ -67,7 +67,7 @@ sections:
 
           Requires you have attended an initial consultation
 
-          Non- gym members + £5 gym entry fee
+          Non- gym members £5 gym entry fee
     title: Appointments
 template: landing
 ---
