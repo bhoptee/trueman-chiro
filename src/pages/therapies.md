@@ -24,7 +24,7 @@ sections:
     features:
       - type: feature_item
         title: Gym Based Assessment
-        image: /images/5.-gym.jpg
+        image: /images/5.-gym-v2.jpg
         content: >-
           With the advantage of being based in a facility with a well-appointed
           gym on site, we're able to offer one to one gym-based assessment and
