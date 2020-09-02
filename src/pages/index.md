@@ -6,7 +6,7 @@ sections:
     section_id: hero
     content: Mark, Using Netlify, Gastby, and NetlifyCMS, you can get up and running
       instantly.
-    image: images/hero.png
+    image: /images/3.-treatment-image.jpg
     actions:
       - type: action
         label: Learn More
