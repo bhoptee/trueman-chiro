@@ -34,7 +34,10 @@ sections:
         type: pricing_plan
         title: Initial Consultation
         price: £50
-        details: 50 Minute session
+        details: |-
+          50 Minute Session
+
+          Assessment, Diagnosis and Treament*
         actions:
           - new_window: false
             type: action
@@ -51,7 +54,10 @@ sections:
             url: /contact
             primary: true
             label: Book Now
-        details: Requires you have attended an initial consultation
+        details: |-
+          25 Minute Session
+
+          Requires you have attended an initial consultation
     title: Initial Consultation
 template: landing
 ---
