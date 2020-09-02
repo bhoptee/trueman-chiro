@@ -17,11 +17,11 @@ sections:
         image: /images/11.-back-pain-v2.jpg
       - type: feature_item
         content: |-
+          Shoulder Pain
+
           Neck Pain
 
           Headache (Cervicogenic)
-
-          Shoulder Pain
 
           Elbow & Wrist Pain
         image: /images/9.-shoulder-pain.jpg
