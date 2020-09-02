@@ -30,7 +30,7 @@ sections:
           gym on site, we're able to offer one to one gym-based assessment and
           rehabilitation. Being able to assess how you're performing your
           exercise routine means we can identify key areas to improve and
-          optimise, and/or determine if an aspect of your rounte would put you
+          optimise, and/or determine if an aspect of your routine would put you
           at risk for injury. 
 
 
