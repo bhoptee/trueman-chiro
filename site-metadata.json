@@ -34,6 +34,12 @@
         "label": "Book an appointment",
         "url": "/contact",
         "primary": true
+      },
+      {
+        "new_window": true,
+        "type": "action",
+        "label": "Therapies",
+        "url": "/therapies"
       }
     ]
   },
