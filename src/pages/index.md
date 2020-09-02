@@ -23,7 +23,7 @@ sections:
         content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: images/feature1.png
+        image: /images/1.-anatomy-1.jpg
         actions:
           - type: action
             label: Learn More
