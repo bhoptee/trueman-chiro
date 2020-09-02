@@ -58,6 +58,11 @@ sections:
           25 Minutes
 
           Requires you have attended an initial consultation
+      - highlight: false
+        type: pricing_plan
+        title: Gym Based Assessment
+        price: £48
+        details: One to One Assessment at the Invictus Gym (at premises)
     title: Appointments
 template: landing
 ---
