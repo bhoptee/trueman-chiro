@@ -7,7 +7,7 @@ sections:
     content: |-
       Chiropractic Manipulation
 
-      Dry Needling / Western Acupuncture
+      Western Acupuncture / Dry Needling
 
       Kinesio Taping
 
