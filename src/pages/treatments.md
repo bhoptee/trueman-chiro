@@ -62,7 +62,7 @@ sections:
 
 
           Requires you have attended an Initial Consultation
-      - highlight: false
+      - highlight: true
         type: pricing_plan
         title: Treatment
         price: £36
@@ -81,7 +81,7 @@ sections:
   - type: section_pricing
     background: gray
     pricing_plans:
-      - highlight: false
+      - highlight: true
         type: pricing_plan
         title: New Complaint
         price: £48
