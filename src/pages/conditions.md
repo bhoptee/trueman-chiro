@@ -7,26 +7,13 @@ sections:
     content: |-
       Lower Back Pain
 
+      Thoracic / Mid back Pain
+
       Sciatica
 
-      Neck Pain
-
-      Headache (Cervicogenic)
-
       Pelvic & Hip Pain
-
-      Shoulder Pain
-
-      Elbow & Wrist Pain
-
-      Knee Pain
-
-      Ankle & Foot Pain
-
-      Sprains & Strains
-
-      Soft Tissue Injury
-
-      Joint Pain
+    image: /images/10.-back-pain.png
+  - type: section_content
+    background: gray
 template: landing
 ---
