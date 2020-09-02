@@ -9,7 +9,7 @@ sections:
         content: |-
           Lower Back Pain
 
-          Thoracic / Mid back Pain
+          Thoracic / Mid Back Pain
 
           Sciatica
 
