@@ -77,10 +77,22 @@ sections:
 
 
           Relevant once you have become proficient with your exercise prescription
+    title: Appointments
+  - type: section_pricing
+    background: gray
+    pricing_plans:
+      - highlight: false
+        type: pricing_plan
+        title: New Complaint
+        price: £48
+        details: |-
+          25 Minutes
+
+          Assessment & Diagnosis
+
+          Requires you have attended an Initial Consultation
       - highlight: true
         type: pricing_plan
-        title: Gym Based Assessment
-        price: £48
         details: |-
           25 Minutes
 
@@ -89,16 +101,7 @@ sections:
           Requires you have attended an initial consultation
 
           Non- gym members £5 gym entry fee
-      - highlight: false
-        type: pricing_plan
-        title: New Complaint
+        title: Gym Based Assessment
         price: £48
-        details: |-
-          Assessment & Diagnosis
-
-          Requires you have attended an Initial Consultation
-      - highlight: false
-        type: pricing_plan
-    title: Appointments
 template: landing
 ---
