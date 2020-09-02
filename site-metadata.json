@@ -18,6 +18,12 @@
         "url": "/appointments"
       },
       {
+        "new_window": true,
+        "type": "action",
+        "label": "Therapies",
+        "url": "/therapies"
+      },
+      {
         "type": "action",
         "label": "About",
         "url": "/about"
@@ -33,13 +39,8 @@
         "type": "action",
         "label": "Book an appointment",
         "url": "/contact",
-        "primary": true
-      },
-      {
-        "new_window": true,
-        "type": "action",
-        "label": "Therapies",
-        "url": "/therapies"
+        "primary": true,
+        "new_window": false
       }
     ]
   },
