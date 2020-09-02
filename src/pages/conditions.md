@@ -12,7 +12,7 @@ sections:
       Sciatica
 
       Pelvic & Hip Pain
-    image: /images/10.-back-pain.png
+    image: /images/10.-back-pain.jpg
   - type: section_content
     background: gray
 template: landing
