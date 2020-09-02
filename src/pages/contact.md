@@ -16,10 +16,10 @@ sections:
 
 
 
-      Phone Number
+      Phone Number:
 
 
 
-      Opening Hours
+      Opening Hours:
 template: landing
 ---
