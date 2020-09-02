@@ -22,5 +22,11 @@ sections:
       Knee Pain
 
       Ankle & Foot Pain
+
+      Sprains & Strains
+
+      Soft Tissue Injury
+
+      Joint Pain
 template: landing
 ---
