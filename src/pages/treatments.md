@@ -98,7 +98,7 @@ sections:
 
           One to One Assessment at the ... Gym
 
-          Requires you have attended an initial consultation
+          Requires you have attended an Initial Consultation
 
           Non- gym members £5 gym entry fee
         title: Gym Based Assessment
