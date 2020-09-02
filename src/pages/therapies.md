@@ -15,7 +15,7 @@ sections:
 
       Exercise Prescription & Rehabilitation
 
-      Dynamic Neuromuscular Stabilition based Rehabilitation
+      Dynamic Neuromuscular Stabilition Based Rehabilitation
 
       Gym Based Assessement & Rehabilitation
 template: landing
