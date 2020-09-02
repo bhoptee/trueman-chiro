@@ -62,7 +62,12 @@ sections:
         type: pricing_plan
         title: Gym Based Assessment
         price: £48
-        details: One to One Assessment at the Invictus Gym (at premises)
+        details: |-
+          One to One Assessment at the Invictus Gym
+
+          Requires you have attended an initial consultation
+
+          Non- gym members + £5 gym entry fee
     title: Appointments
 template: landing
 ---
