@@ -37,14 +37,14 @@ sections:
         details: |-
           50 Minutes
 
-          Assessment, Diagnosis and Treament*
+          Assessment, Diagnosis and Treatment*
         actions:
           - new_window: false
             type: action
             label: Book now
             url: /contact
             primary: true
-      - highlight: false
+      - highlight: true
         type: pricing_plan
         title: Treatment Session
         price: £48
@@ -58,7 +58,7 @@ sections:
           25 Minutes
 
           Requires you have attended an initial consultation
-      - highlight: false
+      - highlight: true
         type: pricing_plan
         title: Gym Based Assessment
         price: £48
