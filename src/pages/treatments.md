@@ -103,5 +103,17 @@ sections:
           Non- gym members £5 gym entry fee
         title: Gym Based Assessment
         price: £48
+      - highlight: true
+        type: pricing_plan
+        title: Gym Based Assessment (double slot)
+        price: £96
+        details: |-
+          50 Minutes
+
+          One to One Assessment at the ... Gym
+
+          Requires you have attended an Initial Consultation
+
+          Non- gym members £5 gym entry fee
 template: landing
 ---
