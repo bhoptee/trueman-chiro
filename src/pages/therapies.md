@@ -1,9 +1,9 @@
 ---
 title: Therapies
 sections:
-  - type: section_contact
+  - type: section_content
     background: gray
-    title: Therapies provided
+    title: Therapies
     content: |-
       Chiropractic Manipulation
 
