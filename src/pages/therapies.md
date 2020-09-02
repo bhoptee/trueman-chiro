@@ -17,6 +17,6 @@ sections:
 
       Dynamic Neuromuscular Stabilition based Rehabilitation
 
-      Gym Based Assessement & Rehabilitation
+      On Site Gym Based Assessement & Rehabilitation
 template: landing
 ---
