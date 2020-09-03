@@ -44,5 +44,9 @@ sections:
       - type: feature_item
         title: Dynamic Neuromuscular Stabilition
         image: /images/7.-dns.png
+      - type: feature_item
+        title: Kinesio Taping
+        image: /images/14.-kinesio-taping-knee.jpg
+        actions: []
 template: landing
 ---
