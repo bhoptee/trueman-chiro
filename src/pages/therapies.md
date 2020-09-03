@@ -11,7 +11,7 @@ sections:
 
       Kinesio Taping
 
-      Impulse IQ Adjusting Instrument
+      Impulse Adjusting Instrument
 
       Exercise Prescription & Rehabilitation
 
