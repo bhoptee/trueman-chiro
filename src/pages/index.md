@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Chiropractic services in Thame
 sections:
   - type: section_hero
-    title: ""
+    title: "Vantage Chiropractic, Thame"
     section_id: hero
-    content: ""
+    content: "Now taking on new clients"
     image: /images/3.-treatment-image.jpg
     actions:
       - type: action

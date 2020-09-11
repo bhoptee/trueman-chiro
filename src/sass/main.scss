@@ -1,24 +1,22 @@
 
 // Font.
 $font: (
-  primary: ("Nunito Sans",sans-serif)
+  primary: ("Martel", serif),
+  secondary: ("Martel Sans", sans-serif),
 );
 
 // Palette.
 $palette: (
-  primary:           #4c5267,
-  secondary:           darken(#4c5267, 15%),
-  meta:                lighten(#4c5267, 20%),
-  border:              lighten(#4c5267, 58%),
+  primary:           #464646,
+  secondary:         #1A5A63,
+  tertiary:          #50A7C7,
+  quartinary:        #9AC4C2,
+  quintinary:        #FBFEFF,
+  meta:                #50A7C7,
+  border:              #50A7C7,
   bg:                #f7f9fb,
-  accent:            #0072ff,
-  accent-alt:        #00c6ff,
-  accent-purple:     #b5267b,
-  accent-purple-alt: #632695,
-  accent-green:      #438945,
-  accent-green-alt:  #73bb75,
-  accent-orange:     #fe8c00,
-  accent-orange-alt: #f83600
+  accent:            #1A5A63,
+  accent-alt:        #9AC4C2,
 );
 
 @import "imports/functions";

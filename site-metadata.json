@@ -76,32 +76,37 @@
         "new_window": true
       }
     ],
-    "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
-    "has_social": true,
-    "content": "&copy; Mark Trueman. All rights reserved.",
+    "tagline": "Vantage Chiropractic, Thame",
+    "logo_img": "images/mono-vert.png",
+    "has_social": false,
+    "content": "&copy; 2020 Vantage Chiropractic, Thame. All rights reserved.",
     "links": [],
     "type": "footer",
     "nav_title": "Company",
     "nav_links": [
       {
         "type": "action",
-        "label": "About Us",
+        "label": "About",
         "url": "/about"
       },
       {
         "type": "action",
-        "label": "Blog",
-        "url": "/blog"
+        "label": "Appointments",
+        "url": "/appointments"
       },
       {
         "type": "action",
-        "label": "Sign Up",
-        "url": "signup"
+        "label": "Conditions",
+        "url": "/conditions"
       },
       {
         "type": "action",
-        "label": "Contact",
+        "label": "Therapies",
+        "url": "/therapies"
+      },
+      {
+        "type": "action",
+        "label": "Book an Appointment",
         "url": "/contact"
       }
     ],

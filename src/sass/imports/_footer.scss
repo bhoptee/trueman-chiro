@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 #colophon {
-  background: _palette(secondary);
+  background: _palette(primary);
   color: _palette(meta);
 
   a {
@@ -12,7 +12,8 @@
     &:hover,
     &:focus {
       border-color: currentColor;
-      color: _palette(border);
+      color: #ffffff;
+      text-decoration: underline;
     }
   }
 }
@@ -68,10 +69,15 @@
     &:last-child {
       margin-bottom: 2.5rem;
     }
+    img {
+    max-height: 100%;
+    max-width: 100%;
+    }
   }
 
   .site-description {
     margin: 0.5rem 0 2.5rem;
+    text-align: center;
   }
 }
 
