@@ -73,12 +73,10 @@ sections:
           Treatment Session
 
 
+          Relevant once you have become proficient with your exercise prescription
 
 
           Requires you have attended an Initial Consultation
-
-
-          Relevant once you have become proficient with your exercise prescription
     title: Appointments
   - type: section_pricing
     background: gray
