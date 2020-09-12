@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
+import SEO from '../components/SEO';
 
 import {Layout} from '../components/index';
 import {withPrefix, htmlToReact} from '../utils';
@@ -19,6 +20,11 @@ export default class Page extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
+              <SEO
+                    title={_.get(this.props, 'pageContext.frontmatter.title')}
+                    description={_.get(this.props, 'pageContext.frontmatter.excerpt')}
+                    pathname={this.props.location.pathname}
+                />
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">

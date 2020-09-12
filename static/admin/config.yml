@@ -286,6 +286,11 @@ collections:
         label: Title
         required: true
         hint: The title of the page
+      - widget: string
+        name: excerpt
+        label: Page description
+        required: true
+        hint: The page description of the page for SEO purposes.
       - widget: list
         name: sections
         label: Sections
@@ -879,6 +884,11 @@ collections:
             label: Title
             required: true
             hint: The title of the page.
+          - widget: string
+            name: excerpt
+            label: Page description
+            required: true
+            hint: The page description of the page for SEO purposes.
           - widget: hidden
             name: template
             label: Template
@@ -897,6 +907,11 @@ collections:
         label: Title
         required: true
         hint: The title of the page
+      - widget: string
+        name: excerpt
+        label: Page description
+        required: true
+        hint: The page description of the page for SEO purposes.
       - widget: string
         name: subtitle
         label: Subtitle

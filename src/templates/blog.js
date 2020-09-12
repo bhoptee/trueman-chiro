@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
+import SEO from '../components/SEO';
 
 import {Layout} from '../components/index';
 import {getPages, Link, withPrefix} from '../utils';
@@ -21,6 +22,11 @@ export default class Blog extends React.Component {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
+              <SEO
+                    title={_.get(this.props, 'pageContext.frontmatter.title')}
+                    description={_.get(this.props, 'pageContext.frontmatter.excerpt')}
+                    pathname={this.props.location.pathname}
+                />
             <div className="outer">
               <div className="inner">
                 <div className="post-feed">

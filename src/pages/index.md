@@ -1,5 +1,6 @@
 ---
 title: Chiropractic services in Thame
+excerpt: testing meta desc
 sections:
   - type: section_hero
     title: "Vantage Chiropractic, Thame"

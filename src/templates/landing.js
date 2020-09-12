@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
+import SEO from '../components/SEO';
 
 import components, {Layout} from '../components/index';
 
@@ -18,6 +19,11 @@ export default class Landing extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
+              <SEO
+                    title={_.get(this.props, 'pageContext.frontmatter.title')}
+                    description={_.get(this.props, 'pageContext.frontmatter.excerpt')}
+                    pathname={this.props.location.pathname}
+                />
             {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {
                 let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
                 let Component = components[component];
