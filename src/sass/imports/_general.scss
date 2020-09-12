@@ -318,7 +318,7 @@ a.button.large {
   &:active {
     box-shadow: none;
     opacity: 1;
-    background:_palette(tertiary);
+    background:_palette(accent-alt);
   border-color: transparent;
   box-shadow: 0 20px 30px 0 rgba(_palette(primary),.2);
   color: #ffffff;
