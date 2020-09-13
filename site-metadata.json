@@ -1,6 +1,6 @@
 {
   "title": "Vantage Chiropractic | Thame",
-  "palette": "blue",
+  "palette": null,
   "header": {
     "type": "header",
     "title": "Vantage Chiropractic in Thame",
@@ -53,7 +53,7 @@
   "footer": {
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "has_subscribe": true,
+    "has_subscribe": false,
     "social_title": "Community",
     "social_links": [
       {
