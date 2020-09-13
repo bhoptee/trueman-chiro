@@ -949,6 +949,11 @@ collections:
         required: true
         hint: The title of the post
       - widget: string
+        name: excerpt
+        label: Page descriptions
+        required: true
+        hint: The page description of the page for SEO purposes.
+      - widget: string
         name: subtitle
         label: Subtitle
         required: false

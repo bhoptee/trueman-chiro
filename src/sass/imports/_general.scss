@@ -292,15 +292,15 @@ a.button.large {
 
 .button.secondary {
   background: _palette(primary);
-  color: _palette(accent-alt);
+  color: _palette(bg);
   -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 
   &:hover,
   &:focus,
   &:active {
-    background: _palette(accent-alt);
-    color:_palette(primary);
+    background: transparent;
+    color:_palette(secondary);
     opacity: 1;
   }
 }

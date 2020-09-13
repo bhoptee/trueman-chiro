@@ -107,6 +107,11 @@
     .has--scrolled .site-header {
       box-shadow: 0 1px 4px 0 rgba(_palette(primary),.1);
     }
+    .has--scrolled .site-header .site-logo img {
+      -webkit-transition: max-height .15s ease-in-out;
+    transition: max-height .15s ease-in-out;
+      max-height: 50px;
+    }
   }
 }
 
