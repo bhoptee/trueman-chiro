@@ -10,13 +10,13 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /features
+        url: /appointments
   - type: section_features
     title: Features
     section_id: features
     subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
       metus quis lorem malesuada luctus.
-    background: white
+    background: gray
     features:
       - type: feature_item
         title: The Best Feature of Your Services
@@ -28,7 +28,7 @@ sections:
           - type: action
             label: Learn More
             url: /therapies
-            primary: true
+            primary: false
   - type: section_reviews
     title: Testimonials
     section_id: reviews
