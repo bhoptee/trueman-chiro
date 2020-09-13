@@ -13,7 +13,7 @@ export default class Body extends React.Component {
                 <Helmet>
                     <title>{_.get(this.props, 'pageContext.frontmatter.title', null) && (_.get(this.props, 'pageContext.frontmatter.title', null) + ' - ')}{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</title>
                     <meta charSet="utf-8"/>
-                    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <meta name="viewport" content="width=device-width, initial-scale=1"/>
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet"/>
                     <link rel="stylesheet" href={withPrefix('assets/css/main.css')}/>
