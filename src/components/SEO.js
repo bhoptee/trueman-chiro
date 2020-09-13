@@ -6,7 +6,7 @@ function SEO({ description, image, title, author }) {
         <Helmet
             meta={[
                 {
-                    property: `description`,
+                    name: `description`,
                     content: description
                 },
                 {
