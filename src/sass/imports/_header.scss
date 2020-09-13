@@ -41,6 +41,8 @@
   margin: 0;
 
   img {
+    -webkit-transition: max-height .15s ease-in-out;
+    transition: max-height .15s ease-in-out;
     max-height: 60px;
   }
 }
@@ -106,6 +108,8 @@
 
     .has--scrolled .site-header {
       box-shadow: 0 1px 4px 0 rgba(_palette(primary),.1);
+      padding-bottom: 0.7em;
+      padding-top: 0.7em;
     }
     .has--scrolled .site-header .site-logo img {
       -webkit-transition: max-height .15s ease-in-out;

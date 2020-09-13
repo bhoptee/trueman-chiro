@@ -5,19 +5,13 @@ sections:
     background: gray
     title: Therapies
     content: |-
-      Chiropractic Manipulation
-
-      Western Acupuncture / Dry Needling
-
-      Kinesio Taping
-
-      Impulse Adjusting Instrument
-
-      Exercise Prescription & Rehabilitation
-
-      Dynamic Neuromuscular Stabilisation Based Rehabilitation
-
-      Gym Based Assessment & Rehabilitation
+      * Chiropractic Manipulation
+      * Western Acupuncture / Dry Needling
+      * Kinesio Taping
+      * Impulse Adjusting Instrument
+      * Exercise Prescription & Rehabilitation
+      * Dynamic Neuromuscular Stabilisation Based Rehabilitation
+      *Gym Based Assessment & Rehabilitation
   - type: section_features
     background: gray
     title: ""
