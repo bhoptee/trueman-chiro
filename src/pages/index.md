@@ -3,14 +3,14 @@ title: Chiropractic services in Thame
 excerpt: testing meta desc
 sections:
   - type: section_hero
-    title: "Vantage Chiropractic, Thame"
+    title: Vantage Chiropractic, Thame
     section_id: hero
-    content: "Now taking on new clients"
+    content: Now taking on new clients
     image: /images/3.-treatment-image.jpg
     actions:
       - type: action
         label: Learn More
-        url: /features
+        url: /appointments
   - type: section_features
     title: Features
     section_id: features
@@ -27,7 +27,8 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /therapies
+            primary: false
   - type: section_reviews
     title: Testimonials
     section_id: reviews
@@ -58,7 +59,7 @@ sections:
     actions:
       - type: action
         label: Get Started
-        url: /signup
+        url: /appointments
   - type: section_posts
     title: Latest Posts
     section_id: recent-posts
