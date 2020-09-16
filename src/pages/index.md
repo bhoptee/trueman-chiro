@@ -34,14 +34,15 @@ sections:
             url: /therapies
             primary: false
             new_window: false
-      - type: feature_item
-        content: Providing a hygienic and clean environment. Read about the Vantage
-          Chiropractic
-        actions:
-          - new_window: true
-            type: action
-            label: COVID 19 Strategy
-            url: /about
+  - type: section_cta
+    title: ""
+    section_id: ""
+    subtitle: Providing a hygienic and clean environment. Read about the Vantage
+      Chiropractic
+    actions:
+      - type: action
+        label: COVID 19 Strategy
+        url: /about
   - type: section_reviews
     title: Testimonials
     section_id: reviews
@@ -65,14 +66,6 @@ sections:
         avatar: images/review3.jpg
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
-    title: This Is Call To Action Block!
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        label: Get Started
-        url: /appointments
   - type: section_posts
     title: Latest Posts
     section_id: recent-posts
