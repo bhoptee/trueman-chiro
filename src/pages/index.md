@@ -69,6 +69,7 @@ sections:
         avatar: images/review3.jpg
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  - type: section_cta
   - type: section_posts
     title: Latest Posts
     section_id: recent-posts
