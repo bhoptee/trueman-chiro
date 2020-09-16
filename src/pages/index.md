@@ -20,7 +20,7 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
+        title: Treatment Services
         content: |-
           * Chiropractic Manipulation
           * Western Acupuncture
