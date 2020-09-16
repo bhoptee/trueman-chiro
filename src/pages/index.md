@@ -20,14 +20,6 @@ sections:
     background: gray
     features:
       - type: feature_item
-        content: Providing a hygienic and clean environment. Read about the Vantage
-          Chiropractic
-        actions:
-          - new_window: true
-            type: action
-            label: COVID 19 Strategy
-            url: /about
-      - type: feature_item
         title: Treatment Services
         content: |-
           * Chiropractic Manipulation
@@ -42,6 +34,14 @@ sections:
             url: /therapies
             primary: false
             new_window: false
+      - type: feature_item
+        content: Providing a hygienic and clean environment. Read about the Vantage
+          Chiropractic
+        actions:
+          - new_window: true
+            type: action
+            label: COVID 19 Strategy
+            url: /about
   - type: section_reviews
     title: Testimonials
     section_id: reviews
