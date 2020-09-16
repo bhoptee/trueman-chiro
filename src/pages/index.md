@@ -13,10 +13,10 @@ sections:
         label: Learn More
         url: /appointments
   - type: section_features
-    title: Features
+    title: ""
     section_id: ""
-    subtitle: "Individualised assessment and integration of treatment techniques to
-      help regain movement, increase mobility and reduce pain. "
+    subtitle: "Individualised assessment and the integration of treatment techniques
+      to help regain movement, increase mobility and reduce pain. "
     background: gray
     features:
       - type: feature_item
