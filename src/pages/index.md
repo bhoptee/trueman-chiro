@@ -5,7 +5,8 @@ sections:
   - type: section_hero
     title: Vantage Chiropractic, Thame
     section_id: hero
-    content: Now taking on new clients
+    content: Specialists in the diagnosis and treatment of musculoskeletal injury or
+      pain. Providing the vantage point of expert knowledge and experience.
     image: /images/3.-treatment-image.jpg
     actions:
       - type: action
