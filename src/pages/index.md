@@ -1,5 +1,5 @@
 ---
-title: Chiropractic services in Thame
+title: Chiropractic & Rehabilitation in Thame
 excerpt: testing meta desc
 sections:
   - type: section_hero
