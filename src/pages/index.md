@@ -38,7 +38,7 @@ sections:
     title: ""
     section_id: ""
     subtitle: Providing a hygienic and clean environment. Read about the Vantage
-      Chiropractic
+      Chiropractic COVID 19 Strategy
     actions:
       - type: action
         label: COVID 19 Strategy
