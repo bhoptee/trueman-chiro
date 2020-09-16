@@ -21,9 +21,14 @@ sections:
     features:
       - type: feature_item
         title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |-
+          Chiropractic Manipulation
+
+          Western Acupuncture
+
+          Kinesio Taping
+
+          Gym Based Rehabilitation
         image: /images/1.-anatomy-1.jpg
         actions:
           - type: action
