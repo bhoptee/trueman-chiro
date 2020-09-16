@@ -22,13 +22,11 @@ sections:
       - type: feature_item
         title: The Best Feature of Your Services
         content: |-
-          Chiropractic Manipulation
-
-          Western Acupuncture
-
-          Kinesio Taping
-
-          Gym Based Rehabilitation
+          * Chiropractic Manipulation
+          * Western Acupuncture
+          * Kinesio Taping
+          * Exercise Prescription & Rehabilitation
+          * Gym Based Assessment & Rehabilitation
         image: /images/1.-anatomy-1.jpg
         actions:
           - type: action
