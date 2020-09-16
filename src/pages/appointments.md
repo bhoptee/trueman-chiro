@@ -1,8 +1,9 @@
 ---
 title: Appointments
+excerpt: Appointments
 sections:
   - type: section_content
-    title: The Best Features of Your Services
+    title: What to expect on your first visit
     section_id: features
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
