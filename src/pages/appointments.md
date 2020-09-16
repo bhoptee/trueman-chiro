@@ -101,7 +101,7 @@ sections:
 
           Requires you have attended an Initial Consultation
 
-          Non- gym members £5 gym entry fee
+          Non- gym members additional £5 gym entry fee
         title: Gym Based Assessment 1
         price: £48
         actions:
@@ -121,7 +121,7 @@ sections:
 
           Requires you have attended an Initial Consultation
 
-          Non- gym members £5 gym entry fee
+          Non- gym members additional £5 gym entry fee
         actions:
           - new_window: false
             type: action
