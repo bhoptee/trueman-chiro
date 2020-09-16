@@ -40,7 +40,7 @@ sections:
   - type: section_cta
     title: ""
     section_id: ""
-    subtitle: "Providing a hygienic and clean environment. Read about the Vantage
+    subtitle: "Providing a clean and hygienic environment. Read about the Vantage
       Chiropractic "
     actions:
       - type: action
