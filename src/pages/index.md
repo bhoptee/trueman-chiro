@@ -22,10 +22,8 @@ sections:
       - type: feature_item
         title: Treatment Services
         content: |-
-          
-
           * Chiropractic Manipulation
-          * Western Acupuncture / Dry Needling
+          * Western Acupuncture
           * Kinesio Taping
           * Exercise Prescription & Rehabilitation
           * Gym Based Assessment & Rehabilitation
