@@ -14,9 +14,9 @@ sections:
         url: /appointments
   - type: section_features
     title: Features
-    section_id: features
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    section_id: ""
+    subtitle: "Individualised assessment and integration of treatment techniques to
+      help regain movement, increase mobility and reduce pain. "
     background: gray
     features:
       - type: feature_item
