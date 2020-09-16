@@ -15,8 +15,8 @@ sections:
   - type: section_features
     title: ""
     section_id: ""
-    subtitle: Individualised assessment and the integration of treatment techniques
-      to help regain movement, reduce pain and optimise performace.
+    subtitle: Individualised assessment and integration of treatment techniques to
+      help regain movement, reduce pain and optimise performace.
     background: gray
     features:
       - type: feature_item
