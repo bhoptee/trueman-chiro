@@ -1,5 +1,6 @@
 ---
 title: Contact
+excerpt: Contact
 sections:
   - type: section_content
     background: gray
@@ -7,11 +8,15 @@ sections:
     content: |-
       Location:
 
+      3 Wenman Road
 
+      Thame
+
+      Oxfordshire
+
+      OX9 3SD
 
       Phone Number:
-
-
 
       Opening Hours:
   - type: section_contact
