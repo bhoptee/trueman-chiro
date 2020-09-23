@@ -97,7 +97,7 @@ sections:
         details: |-
           25 Minutes
 
-          One to One Assessment at the ... Gym
+          One to One Assessment at the Invictus Gym
 
           Requires you have attended an Initial Consultation
 
@@ -117,7 +117,7 @@ sections:
         details: |-
           50 Minutes
 
-          One to One Assessment at the ... Gym
+          One to One Assessment at the Invictus Gym
 
           Requires you have attended an Initial Consultation
 
