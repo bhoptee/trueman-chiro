@@ -38,7 +38,7 @@ sections:
         details: |-
           50 Minutes
 
-          Assessment, Diagnosis and Treatment*
+          Assessment, Diagnosis and Treatment
         actions:
           - new_window: false
             type: action
