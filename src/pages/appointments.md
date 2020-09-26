@@ -36,7 +36,8 @@ sections:
         title: Initial Consultation
         price: £65
         details: |-
-          **50 Minutes**\
+          **50 Minutes**
+
           Assessment, Diagnosis and Treatment
         actions:
           - new_window: false
@@ -55,7 +56,8 @@ sections:
             primary: true
             label: Book Now
         details: >-
-          **25 Minutes**\
+          **25 Minutes**
+
 
           Treatment with time available for prescription or review of exercises / stretches\
 
@@ -65,7 +67,8 @@ sections:
         title: Treatment
         price: £36
         details: >-
-          **15 Minutes**\
+          **15 Minutes**
+
 
           Relevant once you have become proficient with your exercise prescription\
 
