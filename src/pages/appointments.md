@@ -6,19 +6,14 @@ sections:
     title: What to expect on your first visit
     section_id: features
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      At your initial consultation a history of your problem will be taken,
+      followed by a physical examination. Once the cause of your problem has
+      been identified the Chiropractor will discuss the findings with you,
+      giving a diagnosis of the problem, and treatment will follow your
+      diagnosis. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
+      The physical examination includes orthopaedic tests, which are tests to identify the specific anatomical structures which are causing your pain; a neurological screen, and functional assessment. Functional assessments are used to determine how effectively an area is working, and to help to determine what treatment or rehabilitation exercises would be most appropriate for you.
     image: /images/2.-consultation-room.jpg
     background: gray
     actions:
