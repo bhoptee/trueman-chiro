@@ -53,7 +53,7 @@ sections:
         actions: []
         content: Is a type of taping used to assist muscular function, reduce pain and
           improve physiological recovery. It can be applied in a variety of
-          ways, depending on if the aim is to facilitate / help a muscle
+          ways, depending on whether the aim is to facilitate / help a muscle
           function or reduce pain, amongst other applications.
 template: landing
 ---
