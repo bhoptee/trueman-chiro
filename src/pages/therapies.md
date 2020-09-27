@@ -1,5 +1,6 @@
 ---
 title: Therapies
+excerpt: Therapies
 sections:
   - type: section_content
     background: gray
@@ -42,5 +43,9 @@ sections:
         title: Kinesio Taping
         image: /images/14.-kinesio-taping-knee.jpg
         actions: []
+        content: Is a type of taping used to assist muscular function, reduce pain and
+          improve physiological recovery. It can be applied in a variety of
+          ways, depending on if the aim is to facilitate / help a muscle
+          function or reduce pain, amongst other applications.
 template: landing
 ---
