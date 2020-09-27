@@ -9,8 +9,7 @@ sections:
       At your initial consultation a history of your problem will be taken,
       followed by a physical examination. Once the cause of your problem has
       been identified the Chiropractor will discuss the findings with you,
-      giving a diagnosis of the problem, and treatment will follow your
-      diagnosis. 
+      giving a diagnosis, and treatment will follow your diagnosis. 
 
 
       The physical examination includes orthopaedic tests, which are tests to identify the specific anatomical structures which are causing your pain; a neurological screen, and functional assessment. Functional assessments are used to determine how effectively an area is working, and to help to determine what treatment or rehabilitation exercises would be most appropriate for you.
