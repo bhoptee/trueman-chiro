@@ -39,7 +39,7 @@ sections:
       - type: feature_item
         title: Dynamic Neuromuscular Stabilition
         image: /images/7.-dns.png
-        content: Is based on a field of study called developmental kinesiology. Which
+        content: Is based on a field of study called developmental kinesiology, which
           studies how we as humans develop the ability to move, crawl, stand,
           walk and run; from a baby to an adult. Through this area of study it
           has been possible to identify the foundations for creating stability,
