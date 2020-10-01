@@ -7,7 +7,7 @@ sections:
     title: Welcome to Vantage Chiropractic
     section_id: hero
     content: >-
-      ## Providing the vantage point of expert knowledge and experience
+      **Providing the vantage point of expert knowledge and experience**
 
 
       At Vantage Chiropractic we specialise in the diagnosis and treatment of musculoskeletal injury or pain.
