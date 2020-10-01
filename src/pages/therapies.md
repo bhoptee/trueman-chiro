@@ -5,15 +5,24 @@ sections:
   - type: section_content
     background: gray
     title: Therapies
-    content: |-
-      We offer a number of physical therapies at our facility including:
+    content: >-
+      We offer Individualised assessment and the integration of a variety of
+      therapies  to help regain movement, reduce pain and optimise performance
+      including:
+
 
       * Chiropractic Manipulation
+
       * Western Acupuncture / Dry Needling
+
       * Kinesio Taping
+
       * Impulse Adjusting Instrument
+
       * Exercise Prescription & Rehabilitation
+
       * Dynamic Neuromuscular Stabilisation Based Rehabilitation
+
       * Gym Based Assessment & Rehabilitation
   - type: section_features
     background: white
