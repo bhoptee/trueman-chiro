@@ -1,30 +1,24 @@
 ---
 title: Contact
-excerpt: Contact
+excerpt: How to contact and find Vantage Chiropractic in Thame.
 sections:
   - type: section_content
-    background: gray
-    title: ""
+    background: white
+    title: Find Us
     content: |-
-      Location:
+      3 Wenman Road,\
+      Thame,\
+      Oxfordshire,\
+      OX9 3SD,
 
-      3 Wenman Road
+      **Phone Number:**
 
-      Thame
-
-      Oxfordshire
-
-      OX9 3SD
-
-      Phone Number:
-
-      Opening Hours:
+      **Opening Hours:**
+    image: /images/find-vantage-chiropractic.jpg
   - type: section_contact
     title: Contact
     section_id: contact
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: ""
     background: gray
 template: landing
 ---
