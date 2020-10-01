@@ -31,7 +31,7 @@ sections:
           - new_window: false
             type: action
             label: Book now
-            url: /contact
+            url: /book-an-appointment
             primary: true
       - highlight: true
         type: pricing_plan
@@ -40,7 +40,7 @@ sections:
         actions:
           - new_window: false
             type: action
-            url: /contact
+            url: /book-an-appointment
             primary: true
             label: Book Now
         details: >-
@@ -69,12 +69,15 @@ sections:
         type: pricing_plan
         title: New Complaint
         price: £48
-        details: |-
+        details: |+
           25 Minutes
 
           Assessment & Diagnosis
 
           Requires you have attended an Initial Consultation
+
+
+
       - highlight: true
         type: pricing_plan
         details: |-
