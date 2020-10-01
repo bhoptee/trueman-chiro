@@ -5,7 +5,7 @@ sections:
   - type: section_contact
     title: Book an appointment
     section_id: book
-    content: ""
+    content: Book an appointment at Vantage Chiropractic.
     background: gray
 template: landing
 ---
