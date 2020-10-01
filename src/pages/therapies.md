@@ -39,21 +39,22 @@ sections:
       - type: feature_item
         title: Dynamic Neuromuscular Stabilition
         image: /images/7.-dns.png
-        content: Is based on a field of study called developmental kinesiology, which
-          studies how we as humans develop the ability to move, crawl, stand,
-          walk and run; from a baby to an adult. Through this area of study it
-          has been possible to identify the foundations for creating stability,
-          movement and power in the human body. This knowledge can be applied to
-          assist the individual in pain recover more quickly, identify and
-          correct patterns of movement which lead to pain and injury, and
-          optimise performance in sports and exercise.
+        content: Dynamic Neuromuscular Stabilition is based on a field of study called
+          developmental kinesiology, which studies how we as humans develop the
+          ability to move, crawl, stand, walk and run; from a baby to an adult.
+          Through this area of study it has been possible to identify the
+          foundations for creating stability, movement and power in the human
+          body. This knowledge can be applied to assist the individual in pain
+          recover more quickly, identify and correct patterns of movement which
+          lead to pain and injury, and optimise performance in sports and
+          exercise.
       - type: feature_item
         title: Kinesio Taping
         image: /images/14.-kinesio-taping-knee.jpg
         actions: []
-        content: Is a type of taping used to assist muscular function, reduce pain and
-          improve physiological recovery. It can be applied in a variety of
-          ways, depending on whether the aim is to facilitate / help a muscle
-          function or reduce pain, amongst other applications.
+        content: Kinesio Taping is a type of taping used to assist muscular function,
+          reduce pain and improve physiological recovery. It can be applied in a
+          variety of ways, depending on whether the aim is to facilitate / help
+          a muscle function or reduce pain, amongst other applications.
 template: landing
 ---
