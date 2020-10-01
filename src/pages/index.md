@@ -42,8 +42,8 @@ sections:
   - type: section_cta
     title: ""
     section_id: ""
-    subtitle: "Providing a clean and hygienic environment. Read about the Vantage
-      Chiropractic "
+    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
+      and safe environment in these changing times.
     actions:
       - type: action
         label: COVID 19 Strategy
