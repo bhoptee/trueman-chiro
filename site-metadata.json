@@ -43,7 +43,7 @@
       {
         "type": "action",
         "label": "Book an appointment",
-        "url": "/appointments",
+        "url": "/book-an-appointment",
         "primary": true,
         "new_window": false
       }
