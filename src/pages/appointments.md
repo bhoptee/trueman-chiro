@@ -2,24 +2,6 @@
 title: Appointments
 excerpt: Appointments
 sections:
-  - type: section_content
-    title: What to expect on your first visit
-    section_id: features
-    content: >-
-      At your initial consultation a history of your problem will be taken,
-      followed by a physical examination. Once the cause of your problem has
-      been identified the Chiropractor will discuss the findings with you,
-      giving a diagnosis, and treatment will follow your diagnosis. 
-
-
-      The physical examination includes orthopaedic tests, which are tests to identify the specific anatomical structures which are causing your pain; a neurological screen, and functional assessment. Functional assessments are used to determine how effectively an area is working, and to help to determine what treatment or rehabilitation exercises would be most appropriate for you.
-    image: /images/2.-consultation-room.jpg
-    background: gray
-    actions: []
-  - type: section_cta
-    subtitle: Vantage Chiropractic is based upstairs on the 1st floor at the
-      Invictus Fitness Centre. There is no lift access, please bear this in mind
-      when booking an appointment.
   - type: section_pricing
     background: gray
     pricing_plans:
@@ -78,6 +60,10 @@ sections:
 
           *Requires you have attended an Initial Consultation*
     title: Appointments
+  - type: section_cta
+    subtitle: Vantage Chiropractic is based upstairs on the 1st floor at the
+      Invictus Fitness Centre. There is no lift access, please bear this in mind
+      when booking an appointment.
   - type: section_pricing
     background: gray
     pricing_plans:
@@ -127,5 +113,19 @@ sections:
             label: Learn More
             url: /therapies
             primary: true
+  - type: section_content
+    title: What to expect on your first visit
+    section_id: features
+    content: >-
+      At your initial consultation a history of your problem will be taken,
+      followed by a physical examination. Once the cause of your problem has
+      been identified the Chiropractor will discuss the findings with you,
+      giving a diagnosis, and treatment will follow your diagnosis. 
+
+
+      The physical examination includes orthopaedic tests, which are tests to identify the specific anatomical structures which are causing your pain; a neurological screen, and functional assessment. Functional assessments are used to determine how effectively an area is working, and to help to determine what treatment or rehabilitation exercises would be most appropriate for you.
+    image: /images/2.-consultation-room.jpg
+    background: gray
+    actions: []
 template: landing
 ---
