@@ -53,7 +53,7 @@ sections:
         content: Dynamic Neuromuscular Stabilition is based on a field of study called
           developmental kinesiology, which studies how we as humans develop the
           ability to move, crawl, stand, walk and run; from a baby to an adult.
-          Through this area of study it has been possible to identify the
+          Through this area of study it has been possible to determine the
           foundations for creating stability, movement and power in the human
           body. This knowledge can be applied to assist the individual in pain
           recover more quickly, identify and correct patterns of movement which
