@@ -18,8 +18,8 @@ sections:
     actions: []
   - type: section_cta
     subtitle: Vantage Chiropractic is based upstairs (1st floor) at the Invictus
-      Fitness Centre, without lift access. Please bear this in mind when
-      deciding to book an appointment.
+      Fitness Centre, without lift access. Please bear this in mind when booking
+      an appointment
   - type: section_pricing
     background: gray
     pricing_plans:
