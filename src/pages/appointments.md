@@ -48,7 +48,7 @@ sections:
             primary: true
             label: Book Now
         details: >-
-          **25 Minutes**
+          **25 Minute**
 
 
           Treatment with time available for prescription or review of exercises / stretches
