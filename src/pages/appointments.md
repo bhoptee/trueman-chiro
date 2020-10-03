@@ -81,15 +81,18 @@ sections:
         type: pricing_plan
         title: New Complaint
         price: £48
-        details: |+
+        details: |-
           25 Minutes
 
           Assessment & Diagnosis
 
+
+
+
+
+
+
           Requires you have attended an Initial Consultation
-
-
-
       - highlight: true
         type: pricing_plan
         details: |-
