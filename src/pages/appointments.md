@@ -23,10 +23,14 @@ sections:
         type: pricing_plan
         title: Initial Consultation
         price: £65
-        details: |-
+        details: >-
           **50 Minutes**
 
+
           Assessment, Diagnosis and Treatment
+
+
+          Please fill in your details online when booking or arrive 10 minutes prior to your appointment to allow time for this.
         actions:
           - new_window: false
             type: action
