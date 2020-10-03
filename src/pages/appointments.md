@@ -56,12 +56,12 @@ sections:
           **25 Minutes**
 
 
-          Treatment with time available for prescription or review of exercises / stretches 
+          Treatment with time available for prescription or review of exercises/stretches 
 
 
 
 
-          *Requires you have attended an Initial Consultation*
+          *Requires you to have attended an Initial Consultation*
       - highlight: true
         type: pricing_plan
         title: Treatment
@@ -73,11 +73,7 @@ sections:
           Relevant once you have become proficient with your exercise prescription
 
 
-
-
-
-
-          *Requires you have attended an Initial Consultation*
+          *Requires you to have attended an Initial Consultation*
     title: Appointments
   - type: section_pricing
     background: gray
@@ -87,21 +83,21 @@ sections:
         title: New Complaint
         price: £48
         details: |-
-          25 Minutes
+          **25 Minutes**
 
           Assessment & Diagnosis
 
-          *Requires you have attended an Initial Consultation*
+          *Requires you to have attended an Initial Consultation*
       - highlight: true
         type: pricing_plan
         details: |-
-          25 Minutes
+          **25 Minutes**
 
           One to One Assessment at the Invictus Gym
 
-          *Requires you have attended an Initial Consultation*
+          *Requires you to have attended an Initial Consultation*
 
-          Non- gym members additional £5 gym entry fee
+          Non-gym members additional £5 gym entry fee
         title: Gym Based Assessment 1
         price: £48
         actions:
@@ -115,13 +111,13 @@ sections:
         title: Gym Based Assessment 2
         price: £96
         details: |-
-          50 Minutes
+          **50 Minutes**
 
           One to One Assessment at the Invictus Gym
 
-          *Requires you have attended an Initial Consultation*
+          *Requires you to have attended an Initial Consultation*
 
-          Non- gym members additional £5 gym entry fee
+          Non-gym members additional £5 gym entry fee
         actions:
           - new_window: false
             type: action
