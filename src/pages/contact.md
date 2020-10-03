@@ -6,10 +6,10 @@ sections:
     background: white
     title: Find Us
     content: |-
-      3 Wenman Road,\
-      Thame,\
-      Oxfordshire,\
-      OX9 3SD,
+      3 Wenman Road\
+      Thame\
+      Oxfordshire\
+      OX9 3SD
 
       **Phone Number:**
 
