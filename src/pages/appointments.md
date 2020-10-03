@@ -51,7 +51,10 @@ sections:
           **25 Minutes**
 
 
-          Treatment with time available for prescription or review of exercises / stretches\
+          Treatment with time available for prescription or review of exercises / stretches
+
+
+          \
 
           *Requires you have attended an Initial Consultation*
       - highlight: true
@@ -62,7 +65,8 @@ sections:
           **15 Minutes**
 
 
-          Relevant once you have become proficient with your exercise prescription\
+          Relevant once you have become proficient with your exercise prescription
+
 
           *Requires you have attended an Initial Consultation*
     title: Appointments
