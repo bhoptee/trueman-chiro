@@ -66,6 +66,10 @@ sections:
           Relevant once you have become proficient with your exercise prescription
 
 
+
+
+
+
           *Requires you have attended an Initial Consultation*
     title: Appointments
   - type: section_pricing
