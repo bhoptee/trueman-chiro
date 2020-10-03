@@ -86,13 +86,7 @@ sections:
 
           Assessment & Diagnosis
 
-
-
-
-
-
-
-          Requires you have attended an Initial Consultation
+          *Requires you have attended an Initial Consultation*
       - highlight: true
         type: pricing_plan
         details: |-
@@ -100,7 +94,7 @@ sections:
 
           One to One Assessment at the Invictus Gym
 
-          Requires you have attended an Initial Consultation
+          *Requires you have attended an Initial Consultation*
 
           Non- gym members additional £5 gym entry fee
         title: Gym Based Assessment 1
@@ -120,7 +114,7 @@ sections:
 
           One to One Assessment at the Invictus Gym
 
-          Requires you have attended an Initial Consultation
+          *Requires you have attended an Initial Consultation*
 
           Non- gym members additional £5 gym entry fee
         actions:
