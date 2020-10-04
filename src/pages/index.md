@@ -46,7 +46,7 @@ sections:
       and safe environment in these changing times.
     actions:
       - type: action
-        label: COVID 19 Strategy
-        url: /COVID-19
+        label: COVID-19 Strategy
+        url: /covid-19
 template: landing
 ---
