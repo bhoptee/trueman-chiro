@@ -16,15 +16,15 @@ sections:
       #### Opening Hours:
 
       **Mon:**
-      10 - 1pm
+      10 - 1pm,
       4pm - 7pm\
       **Tuesday**
-      8-11am
+      8-11am,
       1-4pm\
       **Thursday** 
-      9-6pm\
+      9am-12pm, 3pm-6pm\
       **Friday**
-      8-11am
+      8-11am,
       1-4pm
     image: /images/find-vantage-chiropractic.jpg
   - type: section_contact
