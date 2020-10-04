@@ -1,6 +1,8 @@
 ---
 title: COVID-19
-excerpt: COVID 19 Protocals
+excerpt: At Vantage Chiropractic we care about your safety, read about every
+  precaution we take to provide a clean and safe environment in these changing
+  times.
 sections:
   - type: section_content
     background: gray
