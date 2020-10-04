@@ -23,6 +23,10 @@
   padding-top: 3.33333rem;
 }
 
+.footer-contact a:hover {
+  text-decoration: none!important;
+}
+
 .footer-widgets,
 .footer-nav-inside {
   display: -ms-flexbox;
@@ -113,6 +117,9 @@
   padding-bottom: 1.66667rem;
   padding-top: 1.66667rem;
   text-align: center;
+  img {
+    max-height: 70px;
+    }
 }
 
 @media only screen and (max-width: 800px) {
