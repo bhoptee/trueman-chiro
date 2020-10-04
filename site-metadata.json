@@ -109,7 +109,7 @@
         "url": "/contact"
       },
       {
-        "new_window": true,
+        "new_window": false,
         "type": "action",
         "label": "COVID 19 Strategy",
         "url": "/COVID-19"
