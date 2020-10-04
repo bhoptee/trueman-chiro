@@ -13,11 +13,10 @@ Your Chiropractor washes their hands between each patient, with the clinical han
 
 The waiting area is compliant with social distancing recommendations, and hand sanitising dispensers are present
 
-Due to retention of your contact details on the clinical software, and the booking diary we are able to be complaint with COVID 19 Contact Tracing. We are fully General Data Protection Regulation (GDRP) compliant (2). 
+Due to retention of your contact details on the clinical software, and the booking diary we are able to be complaint with COVID 19 Contact Tracing. We are fully General Data Protection Regulation (GDRP) compliant. 
 
 Should you be a risk from being in contact someone with Coronavirus, i.e. a patient in the diary slot before or after your appointment has tested positive for COVID 19, you will be notified. 
 
 1. https://gamahealthcare.com/products/universal-range
-2. https://www.writeupp.com/security
 
 \*For individuals who have recovered from COVID-19 and have had at least 3 consecutive days without fever or respiratory symptoms and a negative COVID-19 test, a visor is not required for your Chiropractor, unless their risk assessment indicates otherwise.
