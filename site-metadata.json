@@ -81,7 +81,7 @@
     "content": "&copy; 2020 Vantage Chiropractic, Thame. All rights reserved.",
     "links": [],
     "type": "footer",
-    "nav_title": "Company",
+    "nav_title": "",
     "nav_links": [
       {
         "type": "action",
@@ -107,6 +107,12 @@
         "type": "action",
         "label": "Book an Appointment",
         "url": "/contact"
+      },
+      {
+        "new_window": true,
+        "type": "action",
+        "label": "COVID 19 Strategy",
+        "url": "/COVID 19"
       }
     ],
     "has_nav": true
