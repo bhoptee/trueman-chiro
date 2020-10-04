@@ -5,7 +5,7 @@ excerpt: At Vantage Chiropractic we care about your safety, read about every
   times.
 template: page
 ---
-In compliance with the current professional and governmental guidelines your Chiropractor will use Personal Protective Equipment (PPE) of a face mask, gown, gloves and visor*. 
+In with the current professional and governmental guidelines your Chiropractor will use Personal Protective Equipment (PPE) of a face mask, gown, gloves and visor*. 
 
 The treatment couch is cleaned between each patient with Clinell sanitising wipes, which are effective against Coronavirus in 30 seconds (1). Surfaces which come into human contact or are at risk of human contact are cleaned with disinfectant effective against COVID 19. 
 
