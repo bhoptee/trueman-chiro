@@ -112,7 +112,7 @@
         "new_window": false,
         "type": "action",
         "label": "COVID 19 Strategy",
-        "url": "/COVID-19"
+        "url": "/COVID19"
       }
     ],
     "has_nav": true
