@@ -1,5 +1,5 @@
 ---
-title: COVID 19
+title: COVID-19
 excerpt: COVID 19 Protocals
 sections:
   - type: section_content
