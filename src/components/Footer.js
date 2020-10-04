@@ -60,8 +60,8 @@ export default class Footer extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_contact', null) && (
                     <div className="widget footer-contact">
                       <h2 className="widget-title">{_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_title', null)}</h2>
-                      {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null) && (
-                      <p><strong>Phone: </strong><Link to="Tel:">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null))}</Link></p>
+                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null) && (
+                       <p><Link to="Tel:">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null))}</Link></p>
                       )}
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_address', null) && (
                       <p><strong>Address: </strong>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_address', null))}</p>
