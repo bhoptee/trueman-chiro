@@ -50,31 +50,11 @@
     ]
   },
   "footer": {
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "",
+    "subscribe_content": "",
     "has_subscribe": false,
     "social_title": "Community",
-    "social_links": [
-      {
-        "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": false,
-        "primary": true
-      },
-      {
-        "type": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "new_window": true
-      }
-    ],
+    "social_links": [],
     "tagline": "Vantage Chiropractic, Thame",
     "logo_img": "images/mono-vert.png",
     "has_social": false,
@@ -111,7 +91,7 @@
       {
         "new_window": false,
         "type": "action",
-        "label": "COVID 19 Strategy",
+        "label": "COVID-19 Strategy",
         "url": "/covid-19"
       }
     ],
