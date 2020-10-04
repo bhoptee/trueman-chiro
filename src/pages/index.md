@@ -47,6 +47,6 @@ sections:
     actions:
       - type: action
         label: COVID 19 Strategy
-        url: /COVID 19
+        url: /about
 template: landing
 ---
