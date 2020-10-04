@@ -23,7 +23,7 @@ sections:
       Due to retention of your contact details on the clinical software, and the booking diary we are able to be complaint with COVID 19 Contact Tracing. We are fully General Data Protection Regulation (GDRP) compliant (2). 
 
 
-      Should you be a risk from being in contact someone with Coronavirs i.e. a patient in the diary slot before or after your appointment has tested positive for COVID 19, you will be notified. 
+      Should you be a risk from being in contact someone with Coronavirus, i.e. a patient in the diary slot before or after your appointment has tested positive for COVID 19, you will be notified. 
 
 
       https://gamahealthcare.com/products/universal-range
