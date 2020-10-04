@@ -11,9 +11,10 @@ sections:
       Oxfordshire\
       OX9 3SD
 
-      **Phone Number:**
+      #### **Phone Number:**
 
-      **Opening Hours:**\
+      #### Opening Hours:
+
       **Mon:**
       10 - 1pm
       4pm - 7pm\
@@ -24,7 +25,7 @@ sections:
       9-6pm\
       **Friday**
       8-11am
-      1-4pm 
+      1-4pm
     image: /images/find-vantage-chiropractic.jpg
   - type: section_contact
     title: Contact
