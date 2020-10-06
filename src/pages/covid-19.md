@@ -9,7 +9,7 @@ In compliance with the current professional and governmental guidelines your Chi
 
 The treatment couch is cleaned between each patient with Clinell sanitising wipes, which are effective against Coronavirus in 30 seconds (1). Surfaces which come into human contact or are at risk of human contact are cleaned with disinfectant effective against COVID 19. 
 
-Your Chiropractor washes their hands between each patient, with the clinical hand washing basin present in the consultation room. 
+Your Chiropractor washes their hands between each patient, with the hand washing basin present in the consultation room. 
 
 The waiting area is compliant with social distancing recommendations, and hand sanitising dispensers are present
 
