@@ -6,6 +6,8 @@ sections:
     background: white
     title: Find Us
     content: |-
+      1st Floor, Invictus Fitness Centre
+
       3 Wenman Road\
       Thame\
       Oxfordshire\
