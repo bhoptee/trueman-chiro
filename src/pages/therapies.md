@@ -13,6 +13,8 @@ sections:
 
       * Chiropractic Manipulation
 
+      * Western Acupuncture / Dry Needling
+
       * Kinesio Taping
 
       * Impulse Adjusting Instrument
