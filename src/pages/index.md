@@ -27,6 +27,7 @@ sections:
         title: Treatment Services
         content: |-
           * Chiropractic Manipulation
+          * Western Acupuncture
           * Kinesio Taping
           * Exercise Prescription & Rehabilitation
           * Gym Based Assessment & Rehabilitation
