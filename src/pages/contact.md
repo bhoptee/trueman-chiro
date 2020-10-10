@@ -13,7 +13,8 @@ sections:
       OX9 3SD
 
       #### **Phone Number:**
-      01844 390210
+
+      [01844 390210](<tel:01844 390210>)
 
       #### Opening Hours:
 
