@@ -40,7 +40,7 @@ sections:
           - new_window: false
             type: action
             label: Book now
-            url: /book-an-appointment
+            url: https://vantage-chiropractic.selectandbook.com/
             primary: true
       - highlight: true
         type: pricing_plan
@@ -49,7 +49,7 @@ sections:
         actions:
           - new_window: false
             type: action
-            url: /book-an-appointment
+            url: https://vantage-chiropractic.selectandbook.com/
             primary: true
             label: Book Now
         details: >-
