@@ -35,7 +35,7 @@ sections:
           Assessment, Diagnosis and Treatment
 
 
-          *If booking online you will* receive *a secure digital Initial Consultation form to fill in prior to your appointment.*
+          *If booking online you will* receive *a secure digital Initial Consultation Form to fill in prior to your appointment.*
         actions:
           - new_window: false
             type: action
