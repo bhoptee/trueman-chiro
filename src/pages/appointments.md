@@ -35,7 +35,7 @@ sections:
           Assessment, Diagnosis and Treatment
 
 
-          *Please fill in your details online when booking or arrive 10 minutes prior to your appointment to allow time for this.*
+          *If booking online you will* receive *a secure digital form to fill in prior to your appointment.*
         actions:
           - new_window: false
             type: action
