@@ -17,9 +17,9 @@ sections:
 
           * Movement assessment and screening
 
-          * Integrating treatment techniques to promote faster recovery 
+          * Integrating treatment techniques and approaches to promote faster recovery 
 
-          * Individualised rehabilitation & exercise prescription
+          * Individualised rehabilitation & exercise prescription to address key weaknesses, muscle imbalance and improve movement patterns.
 
 
           Through our expert knowledge and experience we can provide you the vantage point of a route to recovery or improved performance in activity.
