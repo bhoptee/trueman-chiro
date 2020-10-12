@@ -30,7 +30,7 @@ sections:
     features:
       - type: feature_item
         title: Gym Based Assessment
-        image: /images/5.-gym-v2.jpg
+        image: /images/invictus-gym-interior.png
         content: >-
           With the advantage of being located in a facility with a
           well-appointed gym on site, we're able to offer one to one gym-based
