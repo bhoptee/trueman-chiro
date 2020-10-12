@@ -38,6 +38,7 @@ sections:
           Mark enjoys keeping active with swimming, gym, outdoor activities and
           the occasional visit to the climbing wall. He also enjoys a good book,
           cooking and learning to play the piano.
+        title: Mark Trueman - Chiropractor MChiro (Hons)
     title: About
 template: landing
 ---
