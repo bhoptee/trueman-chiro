@@ -7,7 +7,7 @@ sections:
     title: Therapies
     content: >-
       We offer Individualised assessment and the integration of a variety of
-      therapies  to improve movement, reduce pain and optimise performance
+      therapies to improve movement, reduce pain and optimise performance
       including:
 
 
