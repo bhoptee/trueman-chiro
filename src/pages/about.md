@@ -21,7 +21,7 @@ sections:
           -Individualised rehabilitation & exercise prescription
 
 
-          Through our expert knowledge and experience we can provide you the vantage point of a route to recovery and to improved performance in activity.
+          Through our expert knowledge and experience we can provide you the vantage point of a route to recovery, and/or improved performance in activity.
         image: /images/vantage-1.jpg
 template: landing
 ---
