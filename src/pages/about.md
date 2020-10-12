@@ -22,7 +22,7 @@ sections:
           * Individualised rehabilitation & exercise prescription to address key weaknesses, muscle imbalance and improve movement patterns.
 
 
-          Through our expert knowledge and experience we can provide you the vantage point of a route to recovery or improved performance in activity.
+          Through our expert knowledge and experience, we can provide you with the vantage point of a route to recovery or improved performance in activity.
         image: /images/vantage-1.jpg
         title: ""
 template: landing
