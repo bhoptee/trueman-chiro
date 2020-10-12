@@ -25,6 +25,7 @@ sections:
           Through our expert knowledge and experience, we can provide you with the vantage point of a route to recovery or optimise performance in activity.
         image: /images/vantage-1.jpg
         title: ""
+    title: About
   - type: section_content
     background: gray
     content: Mark graduated from the University of South Wales with a Masters of
