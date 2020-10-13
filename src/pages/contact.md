@@ -12,9 +12,13 @@ sections:
       Oxfordshire\
       OX9 3SD
 
-      #### **Phone Number:**
+      #### Phone Number:
 
       01844 390210
+
+      #### Email Address: 
+
+      contact@vantagechiropractic.com
 
       #### Opening Hours:
 
