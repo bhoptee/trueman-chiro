@@ -16,17 +16,6 @@ collections:
             label: Title
             required: true
             hint: Site title
-          - widget: select
-            name: palette
-            label: Color Palette
-            required: false
-            default: blue
-            hint: The color palette of the site
-            options:
-              - blue
-              - purple
-              - green
-              - orange
           - widget: object
             name: header
             label: Header Configuration

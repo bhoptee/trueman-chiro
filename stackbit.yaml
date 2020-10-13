@@ -33,16 +33,6 @@ models:
         label: Title
         description: Site title
         required: true
-      - type: enum
-        name: palette
-        label: Color Palette
-        description: The color palette of the site
-        options:
-          - blue
-          - purple
-          - green
-          - orange
-        default: blue
       - type: model
         name: header
         label: Header Configuration
