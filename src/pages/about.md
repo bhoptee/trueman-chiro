@@ -22,6 +22,7 @@ sections:
 
 
       Through our expert knowledge and experience, we can provide you with the vantage point of a route to recovery or to optimise performance in activity.
+    image: /images/vantage-1.jpg
   - type: section_features
     background: gray
     features:
