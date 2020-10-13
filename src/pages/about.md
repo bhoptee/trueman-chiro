@@ -44,8 +44,8 @@ sections:
 
           Profile picture incoming soon.
         image: ""
-        title: Mark Trueman - Chiropractor MChiro (Hons)
-    title: Meet the team
+        title: ""
+    title: Mark Trueman - Chiropractor MChiro (Hons)
     subtitle: ""
 template: landing
 ---
