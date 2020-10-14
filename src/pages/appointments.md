@@ -65,7 +65,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: Treatment
-        price: £36
+        price: £38
         details: >-
           **15 Minutes**
 
