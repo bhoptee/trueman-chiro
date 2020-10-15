@@ -16,7 +16,7 @@ sections:
 
       01844 390210
 
-      #### Email Address: 
+      #### Email Address:
 
       contact@vantagechiropractic.com
 
@@ -26,10 +26,11 @@ sections:
       10am-1pm,
       4-7pm\
       **Tuesday**
-      8-11am,
-      1-4pm\
+      9am-12pm,
+      3-6pm\
       **Thursday** 
-      9am-12pm, 3-6pm\
+      9am-12pm,
+      3-6pm\
       **Friday**
       8-11am,
       1-4pm
