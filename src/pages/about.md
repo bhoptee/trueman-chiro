@@ -43,7 +43,7 @@ sections:
 
 
           Profile picture incoming soon.
-        image: ""
+        image: /images/m-trueman-profile.jpg
         title: ""
     title: Mark Trueman - Chiropractor MChiro (Hons)
     subtitle: ""
