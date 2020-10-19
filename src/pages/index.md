@@ -48,5 +48,18 @@ sections:
       - type: action
         label: COVID-19 Strategy
         url: /covid-19
+  - type: section_features
+    background: gray
+    features:
+      - type: feature_item
+        image: /images/insurers.png
+        content: |-
+          Aviva
+
+          AXA PPP Healthcare
+
+          Vitality
+        title: "We are registered with and recognised by:"
+    section_id: ""
 template: landing
 ---
