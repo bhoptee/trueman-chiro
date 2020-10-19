@@ -1,6 +1,7 @@
 ---
-title: Chiropractic & Rehabilitation in Thame
-excerpt: "At Vantage Chiropractic we specialise in the diagnosis and treatment of musculoskeletal injury or pain. "
+title: Chiropractic & Rehabilitation
+excerpt: "At Vantage Chiropractic we specialise in the diagnosis and treatment
+  of musculoskeletal injury or pain. "
 sections:
   - type: section_hero
     title: Welcome to Vantage Chiropractic
