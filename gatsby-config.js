@@ -1,9 +1,13 @@
 module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
+    siteMetadata: {
+        siteUrl: `https://www.vantagechiropractic.com`,
+      },
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
+        `gatsby-plugin-sitemap`,
         `gatsby-transformer-remark`,
         {
             resolve: `gatsby-source-filesystem`,
