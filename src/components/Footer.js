@@ -27,7 +27,7 @@ export default class Footer extends React.Component {
                       </p>
                       )}
                     </div>
-                    {((_.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links', null)) || (_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.social_links', null))) && (
+                    {((_.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links', null))) && (
                     <nav className="widget footer-navigation">
                       <div className="footer-nav-inside">
                         {(_.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav', null)) && (
@@ -42,29 +42,23 @@ export default class Footer extends React.Component {
                           </ul>
                         </div>
                         )}
-                        {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social', null) && (
-                        <div className="social-nav">
-                          <h2 className="widget-title">{_.get(this.props, 'pageContext.site.siteMetadata.footer.social_title', null)}</h2>
-                          <ul className="social-links">
-                            {_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.social_links', null), (action, action_idx) => (
-                            <li key={action_idx}>
-                              <ActionLink {...this.props} action={action} />
-                            </li>
-                            ))}
-                          </ul>
-                        </div>
-                        )}
                       </div>
                     </nav>
                     )}
                     {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_contact', null) && (
                     <div className="widget footer-contact">
                       <h2 className="widget-title">{_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_title', null)}</h2>
-                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null) && (
-                       <p><Link to="Tel:">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null))}</Link></p>
+                      <h5 className="widget-subtitle">Email</h5>
+                      {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_email', null) && (
+                       <p><Link to="mailto:contact@vantagechiropractic.com">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_email', null))}</Link></p>
                       )}
+                       <h5 className="widget-subtitle">Phone</h5>
+                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null) && (
+                       <p><Link to="Tel:01844390210">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null))}</Link></p>
+                      )}
+                      <h5 className="widget-subtitle">Address</h5>
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_address', null) && (
-                      <p><strong>Address: </strong>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_address', null))}</p>
+                      <p>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_address', null))}</p>
                       )}
                       <p><Link to="https://www.google.com/maps/dir//Vantage+Chiropractic,+Invictus+Gym,+3+Wenman+Rd,+Thame+OX9+3SD/@51.7390425,-0.9671288,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4876ed6954ea947b:0x1cbb4aa56e5c2e33!2m2!1d-0.9679445!2d51.7395462"><strong>Get Directions</strong></Link></p>
                       

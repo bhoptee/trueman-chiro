@@ -57,6 +57,13 @@
   margin: 0 0 1.33333rem;
 }
 
+.widget-subtitle {
+  font-weight: 900;
+  color: _palette(bg);
+  font-size: 0.9rem;
+  margin: 0 0 0.33333rem;
+}
+
 .footer-branding {
   a {
     border: 0;
@@ -130,7 +137,8 @@
   }
 
   .footer-navigation,
-  .footer-subscribe {
+  .footer-subscribe,
+  .footer-contact {
     -webkit-flex: 0 0 100%;
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
