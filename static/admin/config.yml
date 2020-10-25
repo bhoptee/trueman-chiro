@@ -131,66 +131,11 @@ collections:
                     required: true
                     hint: The type of the object
                     default: action
-              - widget: boolean
-                name: has_social
-                label: Enable Social Links
+              - widget: image
+                name: accreditation_img
+                label: Accreditation Logo
                 required: false
-                default: true
-                hint: Display social links in the footer
-              - widget: string
-                name: social_title
-                label: Social Links Title
-                required: false
-                hint: The title of the social links list displayed in the footer
-              - widget: list
-                name: social_links
-                label: Social Links
-                required: false
-                hint: The list of social links displayed in the footer
-                fields:
-                  - widget: string
-                    name: label
-                    label: Label
-                    required: true
-                  - widget: string
-                    name: url
-                    label: URL
-                    required: true
-                  - widget: boolean
-                    name: primary
-                    label: Primary
-                    required: false
-                    hint: Use primary color for this action
-                  - widget: boolean
-                    name: new_window
-                    label: Open in new window
-                    required: false
-                    default: true
-                    hint: Should the link open a new tab
-                  - widget: hidden
-                    name: type
-                    label: Object Type
-                    required: true
-                    hint: The type of the object
-                    default: action
-              - widget: boolean
-                name: has_subscribe
-                label: Enable Subscribe
-                required: false
-                default: true
-                hint: Display the newsletter subscription form in the footer
-              - widget: string
-                name: subscribe_title
-                label: Subscribe Title
-                required: false
-                hint: The title of the subscribe block displayed in the footer
-              - widget: string
-                name: subscribe_content
-                label: Subscribe Content
-                required: false
-                hint: >-
-                  The text content in the subscribe block displayed in the
-                  footer
+                hint: The accreditation logo image displayed in the footer
               - widget: string
                 name: content
                 label: Footer Content
