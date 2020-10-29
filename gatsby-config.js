@@ -10,6 +10,12 @@ module.exports = {
         `gatsby-plugin-sitemap`,
         `gatsby-transformer-remark`,
         {
+            resolve: `gatsby-plugin-styled-components`,
+            options: {
+              // Add any options here
+            },
+          },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
