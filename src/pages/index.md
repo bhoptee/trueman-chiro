@@ -16,6 +16,14 @@ sections:
       - type: action
         label: Learn More
         url: /appointments
+  - type: section_cta
+    subtitle: We are OPEN during the national lockdown, Thursday 5th November
+      onwards. Please read the
+    actions:
+      - new_window: true
+        type: action
+        label: Entry Arrangements
+        url: National_Lock_Down
   - type: section_features
     title: ""
     section_id: ""
@@ -48,13 +56,6 @@ sections:
       - type: action
         label: COVID-19 Strategy
         url: /covid-19
-  - type: section_cta
-    subtitle: We are OPEN during the national lockdown, Thursday 5th November
-      onwards. Please read the
-    actions:
-      - new_window: true
-        type: action
-        label: Entry Arrangements
-        url: National_Lock_Down
+        new_window: false
 template: landing
 ---
