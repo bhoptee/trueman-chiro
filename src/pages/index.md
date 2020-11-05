@@ -24,7 +24,7 @@ sections:
       - new_window: false
         type: action
         label: Entry Arrangements
-        url: Entry-Arrangements
+        url: entry-arrangements
     title: We are open during the latest lockdown
   - type: section_features
     title: ""
