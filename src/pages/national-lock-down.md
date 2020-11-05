@@ -1,7 +1,7 @@
 ---
 title: National Lock Down
 excerpt: National Lock Down Procedure
-subtitle: Entry Procedure
+subtitle: Entry Arrangements
 template: page
 ---
 As a regulated health care profession Chiropractors are able to continue practicing during the lockdown period, with adherence to guidelines. Therefore Vantage Chiropractic is open for business as usual, with the exception of the entry procedure, as the gym at the Invictus FItness Centre will be closed during lockdown.
