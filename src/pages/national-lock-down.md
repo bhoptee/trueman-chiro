@@ -1,6 +1,6 @@
 ---
-title: National Lock Down
-excerpt: National Lock Down Procedure
+title: Entry Arrangements
+excerpt: Entry Arrangements
 subtitle: Entry Arrangements
 template: page
 ---
