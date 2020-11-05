@@ -48,5 +48,13 @@ sections:
       - type: action
         label: COVID-19 Strategy
         url: /covid-19
+  - type: section_cta
+    subtitle: We are OPEN during the national lockdown, Thursday 5th November
+      onwards. Please read the
+    actions:
+      - new_window: true
+        type: action
+        label: Entry Arrangements
+        url: National_Lock_Down
 template: landing
 ---
