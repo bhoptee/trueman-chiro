@@ -24,6 +24,16 @@ sections:
         type: action
         label: Entry Arrangements
         url: National-Lock-Down
+  - type: section_cta
+    title: ""
+    section_id: ""
+    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
+      and safe environment in these changing times.
+    actions:
+      - type: action
+        label: COVID-19 Strategy
+        url: /covid-19
+        new_window: false
   - type: section_features
     title: ""
     section_id: ""
@@ -47,15 +57,5 @@ sections:
             url: /therapies
             primary: false
             new_window: false
-  - type: section_cta
-    title: ""
-    section_id: ""
-    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
-      and safe environment in these changing times.
-    actions:
-      - type: action
-        label: COVID-19 Strategy
-        url: /covid-19
-        new_window: false
 template: landing
 ---
