@@ -17,23 +17,15 @@ sections:
         label: Learn More
         url: /appointments
   - type: section_cta
-    subtitle: "We are OPEN during the national lockdown, Thursday 5th November
-      onwards. Please read the:"
+    subtitle: Vantage Chiropractic will remain OPEN during the national lockdown,
+      Thursday 5th November onwards, however there are some changes to how you
+      enter the practice.
     actions:
-      - new_window: true
+      - new_window: false
         type: action
         label: Entry Arrangements
-        url: National-Lock-Down
-  - type: section_cta
-    title: ""
-    section_id: ""
-    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
-      and safe environment in these changing times.
-    actions:
-      - type: action
-        label: COVID-19 Strategy
-        url: /covid-19
-        new_window: false
+        url: national-lock-down
+    title: Lockdown - November 2020
   - type: section_features
     title: ""
     section_id: ""
@@ -57,5 +49,15 @@ sections:
             url: /therapies
             primary: false
             new_window: false
+  - type: section_cta
+    title: ""
+    section_id: ""
+    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
+      and safe environment in these changing times.
+    actions:
+      - type: action
+        label: COVID-19 Strategy
+        url: /covid-19
+        new_window: false
 template: landing
 ---
