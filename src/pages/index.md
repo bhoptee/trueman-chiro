@@ -23,7 +23,7 @@ sections:
     actions:
       - new_window: false
         type: action
-        label: Continue reading
+        label: Entry Arrangements
         url: national-lock-down
     title: We are open during the latest lockdown
   - type: section_features
