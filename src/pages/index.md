@@ -17,8 +17,8 @@ sections:
         label: Learn More
         url: /appointments
   - type: section_cta
-    subtitle: We are OPEN during the national lockdown, Thursday 5th November
-      onwards. Please read the
+    subtitle: "We are OPEN during the national lockdown, Thursday 5th November
+      onwards. Please read the:"
     actions:
       - new_window: true
         type: action
