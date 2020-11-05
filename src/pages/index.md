@@ -23,7 +23,7 @@ sections:
       - new_window: true
         type: action
         label: Entry Arrangements
-        url: National_Lock_Down
+        url: National-Lock-Down
   - type: section_features
     title: ""
     section_id: ""
