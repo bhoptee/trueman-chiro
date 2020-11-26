@@ -3,7 +3,7 @@ title: Website Privacy Policy
 excerpt: Website Privacy Policy
 template: page
 ---
-At vantagechirpractic.com, accessible at https://www.vantagechiropractic.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by vantagechirpractic.com and how we use it.
+At vantagechiropractic.com, accessible at https://www.vantagechiropractic.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by vantagechiropractic.com and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at contact@vantagechiropractic.com
 
@@ -13,9 +13,9 @@ We are a Data Controller of your information.
 
 Vantage Chiropractic’s legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
 
-You have given Vantage Chiropractic permission to do so
-Processing your personal information is in Vantage Chiropractic’s legitimate interests
-Vantage Chiropractic needs to comply with the law
+\-You have given Vantage Chiropractic permission to do so
+-Processing your personal information is in Vantage Chiropractic’s legitimate interests
+-Vantage Chiropractic needs to comply with the law
 
 Vantage Chiropractic will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
 
