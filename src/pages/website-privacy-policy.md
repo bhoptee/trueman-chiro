@@ -32,14 +32,6 @@ vantagechiropractic.com follows a standard procedure of using log files. These f
 
 Like any other website, vantagechiropractic.com uses ‘cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimise the users' experience by customising our web page content based on visitors' browser type and/or other information.
 
-**DoubleClick DART Cookie**
-
-Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.vantagechiropractic.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads.
-
-Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
-
-Google:  https://policies.google.com/technologies/ads
-
 **Privacy Policies**
 
 You may consult this list to find the Privacy Policy for each of the advertising partners of vantagechiropractic.com.
