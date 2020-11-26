@@ -96,7 +96,7 @@
       {
         "new_window": true,
         "type": "action",
-        "url": "www.vantagechiropractic.com/website-privacy-policy",
+        "url": "/website-privacy-policy",
         "label": "Website Privacy Policy"
       }
     ],
