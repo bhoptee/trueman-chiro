@@ -96,7 +96,7 @@
       {
         "new_window": true,
         "type": "action",
-        "url": "/website-privacy-policy",
+        "url": "/privacy",
         "label": "Website Privacy Policy"
       }
     ],
