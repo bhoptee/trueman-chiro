@@ -92,6 +92,12 @@
         "type": "action",
         "label": "COVID-19 Strategy",
         "url": "/covid-19"
+      },
+      {
+        "new_window": true,
+        "type": "action",
+        "url": "www.vantagechiropractic.com/website-privacy-policy",
+        "label": "Website Privacy Policy"
       }
     ],
     "contact_email": "contact@vantagechiropractic.com",
