@@ -1,6 +1,7 @@
 ---
-title: Website Privacy Policy
+title: Privacy
 excerpt: Website Privacy Policy
+subtitle: Website Privacy Policy
 template: page
 ---
 At vantagechiropractic.com, accessible at https://www.vantagechiropractic.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by vantagechiropractic.com and how we use it.
