@@ -23,7 +23,7 @@ sections:
         url: /entry_arrangements
         label: Entry Arrangements
     subtitle: We are OPEN during the tier 4 local restrictions, with a slight change
-      to entry into the premises
+      to entry into the premises.
   - type: section_features
     title: ""
     section_id: ""
