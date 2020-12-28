@@ -22,8 +22,8 @@ sections:
         type: action
         url: www.vantagechiropractic.com/entry_arrangements
         label: Entry Arrangements
-    subtitle: We are open during the tier 4 local restrictions, with a change to
-      entry into the premesis
+    subtitle: We are OPEN during the tier 4 local restrictions, with a slight change
+      to entry into the premesis
   - type: section_features
     title: ""
     section_id: ""
