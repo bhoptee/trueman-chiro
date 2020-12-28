@@ -20,7 +20,7 @@ sections:
     actions:
       - new_window: false
         type: action
-        url: www.vantagechiropractic.com/entry_arrangements
+        url: /entry_arrangements
         label: Entry Arrangements
     subtitle: We are OPEN during the tier 4 local restrictions, with a slight change
       to entry into the premises
