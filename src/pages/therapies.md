@@ -50,6 +50,13 @@ sections:
           flexability, muscular function and result in pain.
         image: /images/ergo_back_grande.jpg
       - type: feature_item
+        title: Activator & Impulse Adjusting Instrument
+        image: /images/activator.jpeg
+        content: The Activator and the Impulse Adjusting Instrument are mechanical and
+          electro-mechanical treatment tools used to provide impulses / taps to
+          muscles and joint capsules. Used to reduce musclar tension
+          (hypertonicity) and improve joint function.
+      - type: feature_item
         title: Kinesio Taping
         image: /images/14.-kinesio-taping-knee.jpg
         actions: []
