@@ -35,8 +35,8 @@ sections:
         content: Chiropratic manipulation is effective for treating joint restriction
           and dysfunction. Used to improve spinal mechanical function, reduce
           pain, and as a therapy for patients with sciatica and radiculopathy
-          (pain, numbness or tingling caused by irritation of nerves that supply
-          the back, arms and legs).
+          (pain, numbness or tingling in the back, arms or legs caused by
+          irritation of nerves at the spine).
         image: /images/lb-manipulation.jpg
       - type: feature_item
         content: Is the use of acupuncture needles to treat muscles, connective tissue
