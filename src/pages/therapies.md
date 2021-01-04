@@ -62,6 +62,13 @@ sections:
           lead to pain and injury, and optimise performance in sports and
           exercise.
       - type: feature_item
+        content: Is the use of acupuncture needles to treat muscles, connective tissue
+          and pain. It is highly effective in reducing muscular knots (trigger
+          points), taut bands, and scar tissue. It also has applications related
+          to pain management and chronic pain.
+        title: Western Acupuncture / Dry Needling
+        image: /images/acupuncture.jpg
+      - type: feature_item
         title: Kinesio Taping
         image: /images/14.-kinesio-taping-knee.jpg
         actions: []
