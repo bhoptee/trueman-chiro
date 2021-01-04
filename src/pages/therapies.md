@@ -41,8 +41,8 @@ sections:
       - type: feature_item
         content: Is the use of acupuncture needles to treat muscles, connective tissue
           and pain. It is highly effective in reducing muscular knots (trigger
-          points), taut bands, and scar tissue; and has applications related to
-          pain management and chronic pain.
+          points), taut bands, and scar tissue. Acupuncture has applications
+          related to pain management and chronic pain.
         title: Western Acupuncture / Dry Needling
         image: /images/acupuncture.jpg
       - type: feature_item
