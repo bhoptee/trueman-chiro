@@ -86,7 +86,7 @@ sections:
         content: >-
           With the advantage of being located in a facility with a
           well-appointed gym on site, we're able to offer one to one gym-based
-          assessment and rehabilitation. Being able to assess how you're
+          assessment and rehabilitation. Being able to assess how you are
           performing your exercise routine means we can identify key areas to
           improve and optimise, and/or determine if an aspect of your routine
           would put you at risk for injury. 
