@@ -58,7 +58,7 @@ sections:
         image: /images/activator.jpeg
         content: The Activator and the Impulse Adjusting Instrument are mechanical and
           electro-mechanical treatment tools used to provide impulses / taps to
-          muscles and joint capsules. Used to reduce musclar tension
+          muscles and joint capsules. Used to reduce muscular tension
           (hypertonicity) and improve joint function.
       - type: feature_item
         title: Kinesio Taping
