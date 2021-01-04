@@ -17,7 +17,7 @@ sections:
 
       * Instrument Assist Soft Tissue Mobilitsation (IASTM)
 
-      * Impulse Adjusting Instrument
+      * Impulse Adjusting Instrument & Activator
 
       * Kinesio Taping
 
