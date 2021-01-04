@@ -15,9 +15,11 @@ sections:
 
       * Western Acupuncture / Dry Needling
 
-      * Kinesio Taping
+      * Instrument Assist Soft Tissue Mobilitsation (IASTM)
 
       * Impulse Adjusting Instrument
+
+      * Kinesio Taping
 
       * Exercise Prescription & Rehabilitation
 
