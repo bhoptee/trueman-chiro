@@ -46,7 +46,7 @@ sections:
         title: Western Acupuncture / Dry Needling
         image: /images/acupuncture.jpg
       - type: feature_item
-        title: Instrument Assist Soft Tissue Mobilitsation (IASTM)
+        title: Instrument Assisted Soft Tissue Mobilitsation (IASTM)
         content: Used to treat restrictions in muscles and fascia. Fascia is a
           connective tissue that surrounds each muscle, linking groups of
           muscles allowing the transfer of force between body parts to generate
