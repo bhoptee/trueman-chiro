@@ -51,7 +51,7 @@ sections:
           connective tissue that surrounds each muscle, linking groups of
           muscles allowing the transfer of force between body parts to generate
           movement and power. Restrictions in fascia can impact mobility,
-          flexability, muscular function and result in pain.
+          flexibility, muscular function and result in pain.
         image: /images/ergo_back_grande.jpg
       - type: feature_item
         title: Activator & Impulse Adjusting Instrument
