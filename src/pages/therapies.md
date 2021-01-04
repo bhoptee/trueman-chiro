@@ -76,5 +76,9 @@ sections:
 
 
           50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering gym based rehabilitation or performance exercises as needed.
+      - type: feature_item
+        title: Chiropractic Manipulation
+        content: ""
+        image: /images/lb-manipulation.jpg
 template: landing
 ---
