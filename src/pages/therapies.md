@@ -31,12 +31,24 @@ sections:
     title: ""
     features:
       - type: feature_item
+        title: Chiropractic Manipulation
+        content: ""
+        image: /images/lb-manipulation.jpg
+      - type: feature_item
         content: Is the use of acupuncture needles to treat muscles, connective tissue
           and pain. It is highly effective in reducing muscular knots (trigger
           points), taut bands, and scar tissue; and has applications related to
           pain management and chronic pain.
         title: Western Acupuncture / Dry Needling
         image: /images/acupuncture.jpg
+      - type: feature_item
+        title: Instrument Assist Soft Tissue Mobilitsation (IASTM)
+        content: Used to treat restrictions in muscles and fascia. Fascia is a
+          connective tissue that surrounds each muscle, linking groups of
+          muscles allowing the transfer of force between body parts to generate
+          movement and power. Restrictions in fascia can impact mobility,
+          flexability, muscular function and result in pain.
+        image: /images/ergo_back_grande.jpg
       - type: feature_item
         title: Kinesio Taping
         image: /images/14.-kinesio-taping-knee.jpg
@@ -76,9 +88,5 @@ sections:
 
 
           50 Minute Session- is to allow time for reviewing a larger portion of your exercise routine and for covering gym based rehabilitation or performance exercises as needed.
-      - type: feature_item
-        title: Chiropractic Manipulation
-        content: ""
-        image: /images/lb-manipulation.jpg
 template: landing
 ---
