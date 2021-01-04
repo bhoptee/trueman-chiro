@@ -36,9 +36,9 @@ sections:
         content: |-
           * Chiropractic Manipulation
           * Western Acupuncture
+          * Instrument Assisted Soft Tissue Mobilisation (IASTM)
           * Kinesio Taping
           * Exercise Prescription & Rehabilitation
-          * Gym Based Assessment & Rehabilitation
           * And Others
         image: /images/1.-anatomy-1.jpg
         actions:
