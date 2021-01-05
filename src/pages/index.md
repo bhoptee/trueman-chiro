@@ -37,6 +37,7 @@ sections:
           * Chiropractic Manipulation
           * Western Acupuncture
           * Instrument Assisted Soft Tissue Mobilisation (IASTM)
+          * Activator & Impulse Adjusting Instrument
           * Kinesio Taping
           * Exercise Prescription & Rehabilitation
           * And Others
