@@ -48,7 +48,7 @@ sections:
       - type: feature_item
         title: Instrument Assisted Soft Tissue Mobilisation (IASTM)
         content: Used to treat restrictions in muscles and fascia. Fascia is a
-          connective tissue that surrounds each muscle, linking groups of
+          connective tissue which surrounds each muscle, linking groups of
           muscles allowing the transfer of force between body parts to generate
           movement and power. Restrictions in fascia can impact mobility,
           flexibility, muscular function and result in pain.
