@@ -32,7 +32,7 @@ sections:
           interest in musculoskeletal and sports rehabilitation, acupuncture,
           neurological assessment and rehabilitation; relating to balance
           disorders, headache and post-concussive syndrome. Mark grew up in
-          Thame, after completing his degree he moved to Liverpool to take an
+          Thame, after completing his degree he moved to Liverpool taking an
           opportunity in a multidisciplinary clinic with excellent expertise in
           sports treatment and rehabilitation. He has since moved back to Thame
           and set up his own clinic, Vantage Chiropractic. In his spare time
