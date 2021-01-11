@@ -20,7 +20,7 @@ sections:
     actions:
       - new_window: false
         type: action
-        url: /entry_arrangements
+        url: /entry-arrangements
         label: Entry Arrangements
     subtitle: We are OPEN during the national lockdown (January 2021), with a slight
       change to entry into the premises.
