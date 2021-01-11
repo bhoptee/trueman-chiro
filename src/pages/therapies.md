@@ -15,7 +15,7 @@ sections:
 
       * Western Acupuncture / Dry Needling
 
-      * Instrument Assist Soft Tissue Mobilitsation (IASTM)
+      * Instrument Assisted Soft Tissue Mobilitsation (IASTM)
 
       * Activator & Impulse Adjusting Instrument
 
