@@ -1,5 +1,5 @@
 ---
-title: Chiropractic & Rehabilitation
+title: Chiropractic, Rehabilitation & Sports Injury
 excerpt: "At Vantage Chiropractic we specialise in the diagnosis and treatment
   of musculoskeletal injury or pain. "
 sections:
