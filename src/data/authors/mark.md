@@ -9,7 +9,7 @@ bio: >-
   post-concussive syndrome. 
 
 
-  Mark grew up in Thame, after completing his degree he moved up north to take an opportunity in a multidisciplinary clinic with excellent expertise in sports treatment and rehabilitation. He has since moved back to Thame and set up his own clinic, Vantage Chiropractic. In his spare time Mark enjoys keeping active with swimming, gym, outdoor activities and the occasional visit to the climbing wall. He also enjoys a good book, cooking and learning to play the piano.
+  Mark grew up in Thame, after completing his degree he moved up north to take an opportunity in a multidisciplinary clinic with excellent expertise in sports treatment and rehabilitation. He has since moved back to Thame and set up his own clinic, Vantage Chiropractic. In his spare time Mark enjoys keeping active with swimming, gym, outdoor activities and the occasional visit to the climbing wall. He also enjoys a good book and learning to play the piano.
 photo: /images/m-trueman-profile.jpg
 type: person
 ---
