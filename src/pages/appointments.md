@@ -12,7 +12,7 @@ sections:
       giving a diagnosis, and treatment will follow your diagnosis. 
 
 
-      The physical examination includes orthopaedic tests, which are tests to identify the specific anatomical structures which are causing your pain; a neurological screen, and functional assessment. Functional assessments are used to determine how effectively an area is working, and to help to determine what treatment or rehabilitation exercises would be most appropriate for you.
+      The physical examination includes orthopaedic tests, which are tests to identify the specific anatomical structures which are causing your pain; where indicated a neurological screen, and functional assessment. Functional assessments are used to determine how effectively an area is working, and to help to determine what treatment or rehabilitation exercises would be most appropriate for you.
     image: /images/consult-room-1.jpg
     background: gray
     actions: []
