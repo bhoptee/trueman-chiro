@@ -37,8 +37,8 @@ sections:
           sports treatment and rehabilitation. He has since moved back to Thame
           and set up his own clinic, Vantage Chiropractic. In his spare time
           Mark enjoys keeping active with swimming, gym, outdoor activities and
-          the occasional visit to the climbing wall. He also enjoys a good book,
-          cooking and learning to play the piano.
+          the occasional visit to the climbing wall. He also enjoys a good book
+          and learning to play the piano.
         image: /images/m-trueman-profile.jpg
         title: ""
     title: Mark Trueman - Chiropractor MChiro (Hons)
