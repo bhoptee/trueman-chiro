@@ -85,7 +85,7 @@
       {
         "type": "action",
         "label": "Book an Appointment",
-        "url": "/https://vantage-chiropractic.selectandbook.com/"
+        "url": "https://vantage-chiropractic.selectandbook.com/"
       },
       {
         "new_window": false,
