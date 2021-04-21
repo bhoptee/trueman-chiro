@@ -17,13 +17,19 @@ sections:
         label: Learn More
         url: /appointments
   - type: section_cta
+    actions: []
+    subtitle: "We are OPEN and recieving patients. Your Chiropractor had recieved
+      two COVID-19 vaccination doses. "
+  - type: section_cta
+    title: ""
+    section_id: ""
+    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
+      and safe environment in these changing times.
     actions:
-      - new_window: false
-        type: action
-        url: /entry-arrangements
-        label: Entry Arrangements
-    subtitle: We are OPEN during the national lockdown (January 2021 onwards), with
-      a slight change to entry into the premises.
+      - type: action
+        label: COVID-19 Strategy
+        url: /covid-19
+        new_window: false
   - type: section_features
     title: ""
     section_id: ""
@@ -48,15 +54,5 @@ sections:
             url: /therapies
             primary: false
             new_window: false
-  - type: section_cta
-    title: ""
-    section_id: ""
-    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
-      and safe environment in these changing times.
-    actions:
-      - type: action
-        label: COVID-19 Strategy
-        url: /covid-19
-        new_window: false
 template: landing
 ---
