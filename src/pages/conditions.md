@@ -1,5 +1,6 @@
 ---
 title: Conditions
+excerpt: What we treat
 sections:
   - type: section_features
     background: gray
@@ -11,6 +12,7 @@ sections:
           * Thoracic / Mid Back Pain
           * Sciatica
           * Pelvic & Hip Pain
+          * Sacroiliac Pain
         image: /images/12.-back-pain.jpg
       - type: feature_item
         content: |-
