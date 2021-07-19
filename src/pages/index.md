@@ -18,8 +18,7 @@ sections:
         url: /appointments
   - type: section_cta
     actions: []
-    subtitle: "We are OPEN and receiving patients. Your Chiropractor has had two
-      COVID-19 vaccination doses. "
+    subtitle: "We are OPEN and receiving patients. "
   - type: section_cta
     title: ""
     section_id: ""
