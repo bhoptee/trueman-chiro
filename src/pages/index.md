@@ -17,9 +17,6 @@ sections:
         label: Learn More
         url: /appointments
   - type: section_cta
-    actions: []
-    subtitle: "We are OPEN and receiving patients. "
-  - type: section_cta
     title: ""
     section_id: ""
     subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
