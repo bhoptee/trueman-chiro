@@ -36,6 +36,12 @@
       {
         "new_window": false,
         "type": "action",
+        "label": "Blog",
+        "url": "/blog"
+      },
+      {
+        "new_window": false,
+        "type": "action",
         "label": "Contact",
         "url": "/contact",
         "primary": false
@@ -81,6 +87,12 @@
         "type": "action",
         "label": "Therapies",
         "url": "/therapies"
+      },
+      {
+        "new_window": false,
+        "type": "action",
+        "label": "Blog",
+        "url": "/blog"
       },
       {
         "type": "action",
