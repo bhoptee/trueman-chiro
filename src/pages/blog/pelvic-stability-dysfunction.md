@@ -43,15 +43,15 @@ This problem at the pelvis is called: ‘Pelvic Stability Dysfunction’. It can
 
 ### How to improve function, reduce pain and increase capacity for daily tasks & activities.
 
-_1. Reduce the stiffness and pain of the joints and muscles in and around the pelvis._
+_Reduce the stiffness and pain of the joints and muscles in and around the pelvis._
 
 When you are in pain, the muscles in and around the affected area have a reduced ability to function in a co-ordinated way to allow for good pelvic stabilisation.
 
 Manual therapy such as muscle release, joint manipulation and acupuncture can be very effective in reducing pain and stiffness. When a certain severity of problem is reached it maybe that an individual would not able to get out of pain with exercise alone.  Needing manual therapy to reduce pain levels enough to allow for rehabilitation exercise(s) to be effective.
 
-_2. To strengthen the stabilising muscles in and across the pelvis, so that the pelvis is able to meet the demands placed up it, and evenly distribute load across the pelvis, lower back and upper legs._
+_Strengthen the stabilising muscles in and across the pelvis_ 
 
-This is achieved by a specific and graduated exercise rehabilitation program to strengthen and stabilise weak areas, and to address left to right strength symmetries. It typically includes exercises for the following area:
+So that the pelvis is able to meet the demands placed up it, and evenly distribute load across the pelvis, lower back and upper legs. This is achieved by a specific and graduated exercise rehabilitation program to strengthen and stabilise weak areas, and to address left to right strength symmetries. It typically includes exercises for the following area:
 
 * Gluteal muscles 
 * Deep core & abdominal wall muscular slings: transverse abdominal, internal oblique, and others muscles
