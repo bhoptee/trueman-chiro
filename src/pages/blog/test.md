@@ -2,7 +2,7 @@
 title: Test
 subtitle: Test
 date: 2021-08-09T20:22:59.649Z
-author: Mark Trueman
+author: ""
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum
   vestibulum orci. Curabitur ornare pulvinar lectus, a lacinia neque. Nulla nec
