@@ -46,7 +46,7 @@ Excess stiffness and weakness across the pelvis can leave an individual vulnerab
 * Groin strain
 * Sciatica 
 * Piriformis syndrome
-* Femoral acetabular impingement syndrome
+* Femoro acetabular impingement syndrome
 
 ![](/images/slings-1.png)
 
