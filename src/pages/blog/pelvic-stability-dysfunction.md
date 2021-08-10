@@ -63,7 +63,7 @@ Once an individual has achieved a baseline of strength and co-ordination in the 
 
 Learning how to isolate and strengthen the pelvic floor, deep core & abdominal wall musculature is a co-ordination and skill-based learning curve that can be difficult to achieve without specific coaching from a qualified individual. 
 
-Though some of the relevant exercises to improve pelvic stability can usually be undertaken and performed well from video exercise instruction. Including:
+However some of the relevant exercises to improve pelvic stability and balance can usually be undertaken and performed well from video exercise instruction. Including:
 
 * Side lying glut clamshell exercise using a resistance band 
 * Cat stretch  
