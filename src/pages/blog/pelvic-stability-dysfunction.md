@@ -2,16 +2,16 @@
 title: Pelvic Stability Dysfunction
 subtitle: How it may be causing your lower back or pelvic pain
 date: 2021-08-09T21:00:02.357Z
-excerpt: Certain types of pain the region of the pelvis and lower back
+excerpt: Certain types of pain in the region of the pelvis and lower back
   can result from a problem called “Pelvic Stability Dysfunction”. This article
-  explains how the pelvis function as a foundation for movement, and how
+  explains how the pelvis functions as a foundation for movement, and how
   problems with pelvic stability can result in pain and reduce the ability to
   perform daily tasks, or undertake exercise and activity without problems.
 image: /images/core-vleeming.png
 thumb_image: /images/core-vleeming.png
 template: post
 ---
-Certain types of pain the region of the pelvis and lower back can result from a problem called “Pelvic Stability Dysfunction”. This article explains how the pelvis function as a foundation for movement, and how problems with pelvic stability can result in pain and reduce the ability to perform daily tasks, or undertake exercise and activity without problems.
+Certain types of pain in the region of the pelvis and lower back can result from a problem called “Pelvic Stability Dysfunction”. This article explains how the pelvis functions as a foundation for movement, and how problems with pelvic stability can result in pain and reduce the ability to perform daily tasks, or undertake exercise and activity without problems.
 
 The pelvis function as foundation and stable platform from which the spine, legs and arms can generate movement e.g. standing, walking, lifting.
 
@@ -43,13 +43,13 @@ This problem at the pelvis is called: ‘Pelvic Stability Dysfunction’. It can
 
 ### How to improve function, reduce pain and increase capacity for daily tasks & activities.
 
-__Reduce the stiffness and pain of the joints and muscles in and around the pelvis.__
+**Reduce the stiffness and pain of the joints and muscles in and around the pelvis.**
 
 When you are in pain, the muscles in and around the affected area have a reduced ability to function in a co-ordinated way to allow for good pelvic stabilisation.
 
 Manual therapy such as muscle release, joint manipulation and acupuncture can be very effective in reducing pain and stiffness. When a certain severity of problem is reached it maybe that an individual would not able to get out of pain with exercise alone.  Needing manual therapy to reduce pain levels enough to allow for rehabilitation exercise(s) to be effective.
 
-__Strengthen the stabilising muscles in and across the pelvis__ 
+**Strengthen the stabilising muscles in and across the pelvis** 
 
 So that the pelvis is able to meet the demands placed up it, and evenly distribute load across the pelvis, lower back and upper legs. This is achieved by a specific and graduated exercise rehabilitation program to strengthen and stabilise weak areas, and to address left to right strength symmetries. It typically includes exercises for the following area:
 
