@@ -43,17 +43,12 @@ Acute Lower back Pain - Lumbar facet joint sprain or lumbar musculature strain
 
 Chronic Lower Back Pain - repetitive overload / accumulative strain on the strucutures at the lower back - discs, facet joints, muscles.  
 
-Sacro-iliac joint pain
-
-Pubic symphysis dysfunction
-
-Groin strain
-
-Sciatica 
-
-Piriformis syndrome
-
-Femoral acetabular impingement syndrome
+* Sacro-iliac joint pain
+* Pubic symphysis dysfunction
+* Groin strain
+* Sciatica 
+* Piriformis syndrome
+* Femoral acetabular impingement syndrome
 
 ![](/images/slings-1.png)
 
