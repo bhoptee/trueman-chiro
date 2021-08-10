@@ -69,7 +69,6 @@ Though some of the relevant exercises to improve pelvic stability can usually be
 * Cat stretch  
 * Psoas/ hip flexor stretching 
 * Gluteal / piriformis stretching
-* Lying on front diaphragmatic breathing 
 
 *References:*
 
