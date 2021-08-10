@@ -5,15 +5,15 @@ subtitle: "How it may be causing your lower back or pelvic pain, and what to do
 date: 2021-08-09T21:00:02.357Z
 excerpt: Certain types of pain in the region of the pelvis and lower back can
   result from a problem called “Pelvic Stability Dysfunction”. This article
-  explains how the pelvis functions as a foundation for movement, and how
-  problems with the pelvic and lower back muscular stabilisation or support can
-  result in pain and reduce the ability to perform daily tasks, or undertake
-  exercise and activity without problems, and what can be done about it.
+  explains how the pelvis functions as a foundation for movement. How problems
+  with pelvic and lower back muscular stabilisation or support can result in
+  pain and reduce the ability to perform daily tasks, or undertake exercise and
+  activity without problems, and what can be done about it.
 image: /images/core-vleeming.png
 thumb_image: /images/core-vleeming.png
 template: post
 ---
-Certain types of pain in the region of the pelvis and lower back can result from a problem called “Pelvic Stability Dysfunction”. This article explains how the pelvis functions as a foundation for movement, and how problems with the pelvic and lower back muscular stabilisation or support can result in pain and reduce the ability to perform daily tasks, or undertake exercise and activity without problems, and what can be done about it. 
+Certain types of pain in the region of the pelvis and lower back can result from a problem called “Pelvic Stability Dysfunction”. This article explains how the pelvis functions as a foundation for movement. How problems with pelvic and lower back muscular stabilisation or support can result in pain and reduce the ability to perform daily tasks, or undertake exercise and activity without problems, and what can be done about it.  
 
 The pelvis function as a foundation and stable platform from which the spine, legs and arms can generate movement e.g. standing, walking, lifting. When working at its best the muscles across the pelvis are balanced in strength and tension to allow this function without placing excess demand or strain on a particular area.
 
