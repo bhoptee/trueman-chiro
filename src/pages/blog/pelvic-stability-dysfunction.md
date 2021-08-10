@@ -40,7 +40,7 @@ Excess stiffness and weakness across the pelvis can leave an individual vulnerab
 **Examples of injury/pain which can be related to underlying Pelvic Stability Dysfunction include:**
 
 * Acute Lower back Pain - Lumbar facet joint sprain or lumbar musculature strain 
-* Chronic Lower Back Pain - repetitive overload / accumulative strain on the strucutures at the lower back - discs, facet joints, muscles.  
+* Chronic Lower Back Pain - repetitive overload / accumulative strain on the strucutures at the lower back - discs, facet joints, muscles 
 * Sacro-iliac joint pain
 * Pubic symphysis dysfunction
 * Groin strain
