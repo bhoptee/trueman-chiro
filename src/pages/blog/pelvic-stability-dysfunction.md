@@ -1,6 +1,7 @@
 ---
 title: Pelvic Stability Dysfunction
-subtitle: How it may be causing your lower back or pelvic pain
+subtitle: "How it may be causing your lower back or pelvic pain, and what to do
+  about it. "
 date: 2021-08-09T21:00:02.357Z
 excerpt: Certain types of pain in the region of the pelvis and lower back
   can result from a problem called “Pelvic Stability Dysfunction”. This article
