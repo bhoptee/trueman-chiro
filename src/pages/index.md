@@ -51,7 +51,7 @@ sections:
             primary: false
             new_window: false
   - type: section_posts
-    background: gray
+    background: white
     title: Articles & Blog Posts
     section_id: Articles & Blog Posts
 template: landing
