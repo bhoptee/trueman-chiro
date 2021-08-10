@@ -11,13 +11,11 @@ image: /images/core-vleeming.png
 thumb_image: /images/core-vleeming.png
 template: post
 ---
-Certain types of pain in the region of the pelvis and lower back can result from a problem called “Pelvic Stability Dysfunction”. This article explains how the pelvis functions as a foundation for movement, and how problems with pelvic stability can result in pain and reduce the ability to perform daily tasks, or undertake exercise and activity without problems.
+Certain types of pain in the region of the pelvis and lower back can result from a problem called “Pelvic Stability Dysfunction”. This article explains how the pelvis functions as a foundation for movement, and how problems with pelvic stability can result in pain and reduce the ability to perform daily tasks, or undertake exercise and activity without problems. 
 
-The pelvis function as a foundation and stable platform from which the spine, legs and arms can generate movement e.g. standing, walking, lifting.
+The pelvis function as a foundation and stable platform from which the spine, legs and arms can generate movement e.g. standing, walking, lifting. When working at its best the muscles across the pelvis are balanced in strength and tension to allow this function without placing excess demand or strain on a particular area.
 
-When working at its best the muscles across the pelvis are balanced in strength and tension to allow this function without placing excess demand or strain on a particular area.
-
-The amount of muscle action in the legs, arms & spine needed for different types of body movement varies depending on the task. When more muscle force is required for a particular movement or task the stiffness across the pelvis needs to be increased to meet this demand. This is achieved by increasing the tension of muscles which attach to or cross over the pelvis. Ideally the muscles which stabilise the pelvis can match the demand placed on this area by the work or leverage of the spine, arms and leg, for example when walking, running, lifting or carrying.
+The amount of muscle action in the legs, arms & spine needed for different types of body movement varies depending on the task. When more muscle force is required for a particular movement or task the stiffness across the pelvis needs to be increased to meet this demand. This is achieved by increasing the tension of muscles which attach to or cross over the pelvis. Ideally the muscles which stabilise the pelvis can match the demand placed on this area by the work or leverage of the spine, arms and legs, for example when walking, running, lifting or carrying.
 
 ![](/images/pelvic-force-diagram-2.png)
 
@@ -28,8 +26,6 @@ If there is not enough strength in the muscles stabilising the pelvis, the pelvi
 In both of these instances rather than the force of the muscles being evenly distributed throughout the ring structure of the pelvis, and the spine, there will be areas of higher or uneven load distribution on the pelvis, sacro-iliac joints or the lower back. Over time this can cause pain and stiffness in specific areas, a type of repetitive strain injury.
 
 Excess stiffness and weakness across the pelvis can leave an individual vulnerable to pulling or straining a joint or muscle, as they are less able to time the contraction of their muscles correctly for the movements, resulting in a strain/sprain type injury. Typically, the more demanding the movement on a poorly stabilised pelvis and lower back, the more likely a strain would be. E.g. lifting shopping bags out of the car, reaching to pick up an item from the floor.
-
-
 
 ![](/images/pelvic-force-diagram.png)
 
@@ -59,8 +55,6 @@ Piriformis syndrome
 
 Femoral acetabular impingement syndrome
 
-
-
 ![](/images/slings-1.png)
 
 ### How to improve function, reduce pain and increase capacity for daily tasks & activities.
@@ -85,7 +79,7 @@ Once an individual has achieved a baseline of strength and co-ordination in the 
 
 Learning how to isolate and strengthen the pelvic floor, deep core & abdominal wall musculature is a co-ordination and skill-based learning curve that can be difficult to achieve without specific coaching from a qualified individual. 
 
-However some of the relevant exercises to improve pelvic stability and balance can usually be undertaken and performed well from video exercise instruction. Including:
+However some of the relevant exercises and stretches to improve pelvic stability and balance can usually be undertaken and performed well from video exercise instruction. Including:
 
 * Side lying glut clamshell exercise using a resistance band 
 * Cat stretch  
