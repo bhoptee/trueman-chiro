@@ -29,15 +29,37 @@ In both of these instances rather than the force of the muscles being evenly dis
 
 Excess stiffness and weakness across the pelvis can leave an individual vulnerable to pulling or straining a joint or muscle, as they are less able to time the contraction of their muscles correctly for the movements, resulting in a strain/sprain type injury. Typically, the more demanding the movement on a poorly stabilised pelvis and lower back, the more likely a strain would be. E.g. lifting shopping bags out of the car, reaching to pick up an item from the floor.
 
+
+
 ![](/images/pelvic-force-diagram.png)
 
-This problem at the pelvis is called: ‘Pelvic Stability Dysfunction’. It can occur: 
+**This problem at the pelvis is called: ‘Pelvic Stability Dysfunction’. It can occur:** 
 
 * After lower back or pelvic injury.
 * During or after pregnancy. Without specific strengthening / rehabilitation exercises after pregnancy Pelvic Stability Dysfunction to a greater or lesser degree is very common.
 * Due to repetitive manual tasks - creating asymmetry in strength from left to right side or torsion across the pelvis.
 * Reduced activity / increased sitting time - resulting in reduced muscular / core strength e.g. seated desk work.
 * Increased activity that places excess demand on a pelvis which is already having problems with pelvic stability or is unable to meet the demand placed upon it by the activity. E.g. a) impact related exercise - running, HITT classes b) resistance training with too much weight or incorrect technique- squatting, kettlebells, deadlifts.
+
+**Examples of injury/pain which can be related to underlying Pelvic Stability Dysfunction include:**
+
+Acute Lower back Pain - Lumbar facet joint sprain or lumbar musculature strain 
+
+Chronic Lower Back Pain - repetitive overload / accumulative strain on the strucutures at the lower back - discs, facet joints, muscles.  
+
+Sacro-iliac joint pain
+
+Pubic symphysis dysfunction
+
+Groin strain
+
+Sciatica 
+
+Piriformis syndrome
+
+Femoral acetabular impingement syndrome
+
+
 
 ![](/images/slings-1.png)
 
@@ -47,7 +69,7 @@ This problem at the pelvis is called: ‘Pelvic Stability Dysfunction’. It can
 
 When you are in pain, the muscles in and around the affected area have a reduced ability to function in a coordinated way to allow for good pelvic stabilisation. 
 
-Manual therapy such as muscle release, joint manipulation and acupuncture can be very effective in reducing pain and stiffness. When a certain severity of problem is reached it is possible that an individual would not be able to get out of pain with exercise alone.  Needing manual therapy to reduce pain levels enough to allow for rehabilitation exercise(s) to be effective. 
+Manual therapy such as muscle release, joint manipulation and acupuncture can be very effective in reducing pain and stiffness. When a certain severity of problem is reached it is possible that an individual would not be able to get out of pain with exercise alone.  Needing manual therapy to reduce pain levels and balance muscle tension enough to allow for rehabilitation exercise(s) to be effective. Stretching can provide benefit by reducing muscle & joint stiffness. 
 
 **Strengthen the stabilising muscles in and across the pelvis** 
 
