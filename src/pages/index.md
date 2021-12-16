@@ -17,6 +17,9 @@ sections:
         label: Learn More
         url: /appointments
   - type: section_cta
+    subtitle: "We are closed from 24th December 21 Christmas Eve - to 1st January 22
+      New Years day, opening on 2nd January. "
+  - type: section_cta
     title: ""
     section_id: ""
     subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
