@@ -61,6 +61,8 @@ sections:
 
 
 
+
+
           *Requires you to have attended an Initial Consultation*
     title: Appointments
   - type: section_pricing
