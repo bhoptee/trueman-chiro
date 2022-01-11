@@ -62,18 +62,6 @@ sections:
 
 
           *Requires you to have attended an Initial Consultation*
-      - highlight: true
-        type: pricing_plan
-        title: Treatment
-        price: £38
-        details: >-
-          **15 Minutes**
-
-
-          Relevant once you have become proficient with your exercise prescription
-
-
-          *Requires you to have attended an Initial Consultation*
     title: Appointments
   - type: section_pricing
     background: gray
