@@ -40,10 +40,6 @@ sections:
           Treatment with time available for prescription or review of exercises/stretches 
 
 
-
-
-
-
           *Requires you to have attended an Initial Consultation*
     title: Appointments
   - type: section_pricing
