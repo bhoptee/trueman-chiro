@@ -37,7 +37,9 @@ sections:
           **25 Minutes**
 
 
-          Treatment with time available for prescription or review of exercises/stretches 
+          Treatment with time available for prescription or review of exercises/stretches
+
+
 
 
           *Requires you to have attended an Initial Consultation*
