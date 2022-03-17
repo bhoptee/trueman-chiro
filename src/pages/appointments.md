@@ -2,11 +2,6 @@
 title: Appointments
 excerpt: Appointments
 sections:
-  - type: section_cta
-    subtitle: " A note on accessibility - Vantage Chiropractic is based upstairs on
-      the 1st floor at the Invictus Fitness Centre. There is no lift access,
-      please bear this in mind when booking an appointment."
-    title: ""
   - type: section_pricing
     background: gray
     pricing_plans:
@@ -49,6 +44,11 @@ sections:
 
           *Requires you to have attended an Initial Consultation*
     title: Appointments
+  - type: section_cta
+    subtitle: " A note on accessibility - Vantage Chiropractic is based upstairs on
+      the 1st floor at the Invictus Fitness Centre. There is no lift access,
+      please bear this in mind when booking an appointment."
+    title: ""
   - type: section_pricing
     background: gray
     pricing_plans:
