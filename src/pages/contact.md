@@ -23,7 +23,7 @@ sections:
       #### Opening Hours:
 
       **Mon:**
-      10am-1pm,
+      9am-12pm,
       4-7pm\
       **Tuesday**
       9am-12pm,
