@@ -15,7 +15,7 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /appointments
+        url: /about
   - type: section_cta
     title: ""
     section_id: ""
