@@ -54,5 +54,11 @@ sections:
     background: white
     title: Articles & Blog Posts
     section_id: Articles & Blog Posts
+  - type: section_features
+    background: white
+    title: Individualised Video Based Rehabiliation Programs
+    features:
+      - type: feature_item
+        image: /images/physiapp-large.png
 template: landing
 ---
