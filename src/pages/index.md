@@ -65,6 +65,8 @@ sections:
           * Ability to set reminders / alerts from the App to do exercises
 
           * PDF / paper version downloadable for future reference
+
+          * Coached through exercises as needed in person by your Chiropractor
   - type: section_posts
     background: gray
     title: Articles & Blog Posts
