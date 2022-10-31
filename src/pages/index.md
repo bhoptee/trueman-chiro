@@ -42,7 +42,7 @@ sections:
             new_window: false
   - type: section_features
     background: white
-    title: Individualised Video Based Rehabiliation Programs
+    title: Individualised Video Based Rehabilitation Programs
     features:
       - type: feature_item
         image: /images/physiapp-large.png
