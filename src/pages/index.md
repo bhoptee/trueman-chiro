@@ -57,8 +57,9 @@ sections:
       - type: feature_item
         image: /images/physiapp-large.png
         content: >-
-          * Inclusive service at no additional cost to standard consultation /
-          appointment fees
+          * Assists in learning exercises and improving technique
+
+          * Inclusive service at no additional cost to standard consultation / appointment fees
 
           * Accessible by web browser on PC or by App on smart device - phone or tablet (both Apple & Android)
 
