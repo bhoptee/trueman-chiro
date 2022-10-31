@@ -28,6 +28,8 @@ sections:
       **Tuesday**
       9am-12pm,
       3-6pm\
+      **Wednesday**
+      closed\
       **Thursday** 
       9am-12pm,
       3-6pm\
