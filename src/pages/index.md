@@ -56,6 +56,15 @@ sections:
     features:
       - type: feature_item
         image: /images/physiapp-large.png
+        content: >-
+          * Inclusive service at no additional cost to standard consultation /
+          appointment fees
+
+          * Accessible by web browser on PC or by App on smart device - phone or tablet (both Apple & Android)
+
+          * Ability to set reminders / alerts from the App to do exercises
+
+          * PDF / paper version downloadable for future reference
   - type: section_posts
     background: gray
     title: Articles & Blog Posts
