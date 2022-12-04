@@ -79,7 +79,7 @@ sections:
             type: action
             primary: true
             label: Learn More
-            url: /therapies
+            url: /therapies/
       - highlight: true
         type: pricing_plan
         title: Gym Based Assessment 2
@@ -96,7 +96,7 @@ sections:
           - new_window: false
             type: action
             label: Learn More
-            url: /therapies
+            url: /therapies/
             primary: true
   - type: section_content
     title: What to expect on your first visit
