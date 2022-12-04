@@ -15,7 +15,7 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /about
+        url: /about/
   - type: section_features
     title: ""
     section_id: ""
@@ -37,7 +37,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /therapies
+            url: /therapies/
             primary: false
             new_window: false
   - type: section_features
@@ -70,7 +70,7 @@ sections:
     actions:
       - type: action
         label: COVID-19 Strategy
-        url: /covid-19
+        url: /covid-19/
         new_window: false
 template: landing
 ---
