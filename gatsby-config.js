@@ -43,6 +43,12 @@ module.exports = {
             }
         },
         {
+            resolve: `gatsby-plugin-canonical-urls`,
+            options: {
+                siteUrl: `https://www.vantagechiropractic.com`,
+            }
+        },
+        {
             resolve: "gatsby-plugin-google-tagmanager",
             options: {
               id: "GTM-P8TRRWD",

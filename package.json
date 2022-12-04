@@ -17,6 +17,7 @@
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
     "gatsby": "^2.24.85",
+    "gatsby-plugin-canonical-urls": "^5.2.0",
     "gatsby-plugin-google-tagmanager": "^2.3.14",
     "gatsby-plugin-netlify-cms": "^4.3.13",
     "gatsby-plugin-react-helmet": "^3.3.10",
