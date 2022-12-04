@@ -14,36 +14,36 @@
       {
         "type": "action",
         "label": "Appointments",
-        "url": "/appointments"
+        "url": "/appointments/"
       },
       {
         "new_window": false,
         "type": "action",
         "label": "Conditions",
-        "url": "/conditions"
+        "url": "/conditions/"
       },
       {
         "new_window": false,
         "type": "action",
         "label": "Therapies",
-        "url": "/therapies"
+        "url": "/therapies/"
       },
       {
         "type": "action",
         "label": "About",
-        "url": "/about"
+        "url": "/about/"
       },
       {
         "new_window": false,
         "type": "action",
         "label": "Blog",
-        "url": "/blog"
+        "url": "/blog/"
       },
       {
         "new_window": false,
         "type": "action",
         "label": "Contact",
-        "url": "/contact",
+        "url": "/contact/",
         "primary": false
       },
       {
@@ -71,28 +71,28 @@
       {
         "type": "action",
         "label": "About",
-        "url": "/about"
+        "url": "/about/"
       },
       {
         "type": "action",
         "label": "Appointments",
-        "url": "/appointments"
+        "url": "/appointments/"
       },
       {
         "type": "action",
         "label": "Conditions",
-        "url": "/conditions"
+        "url": "/conditions/"
       },
       {
         "type": "action",
         "label": "Therapies",
-        "url": "/therapies"
+        "url": "/therapies/"
       },
       {
         "new_window": false,
         "type": "action",
         "label": "Blog",
-        "url": "/blog"
+        "url": "/blog/"
       },
       {
         "type": "action",
@@ -103,12 +103,12 @@
         "new_window": false,
         "type": "action",
         "label": "COVID-19 Strategy",
-        "url": "/covid-19"
+        "url": "/covid-19/"
       },
       {
         "new_window": true,
         "type": "action",
-        "url": "/privacy",
+        "url": "/privacy/",
         "label": "Website Privacy Policy"
       }
     ],
