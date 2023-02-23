@@ -43,10 +43,10 @@ sections:
 
 
           *Requires you to have attended an Initial Consultation*
-      - highlight: false
+      - highlight: true
         type: pricing_plan
-        title: Double slot       Treatment & Rehabilitation
-        price: "106"
+        title: Double Session - Treatment & Rehabilitation
+        price: £106
         details: >-
           **50 Minutes**
 
