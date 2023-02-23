@@ -43,6 +43,23 @@ sections:
 
 
           *Requires you to have attended an Initial Consultation*
+      - highlight: false
+        type: pricing_plan
+        title: Double slot       Treatment & Rehabilitation
+        price: "106"
+        details: >-
+          **50 Minutes**
+
+
+          Greater allocation of time for assessment, therapies & rehabilitation work. 
+
+
+          *Requires you to have attended an Initial Consultation*
+        actions:
+          - new_window: true
+            type: action
+            url: https://vantage-chiropractic.selectandbook.com/
+            label: Book Now
     title: Appointments
   - type: section_cta
     subtitle: " A note on accessibility - Vantage Chiropractic is based upstairs on
