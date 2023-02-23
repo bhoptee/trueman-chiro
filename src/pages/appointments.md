@@ -18,7 +18,7 @@ sections:
 
           *When booking online you will* receive *a secure digital Initial Consultation Form to fill in prior to your appointment.*
         actions:
-          - new_window: false
+          - new_window: true
             type: action
             label: Book now
             url: https://vantage-chiropractic.selectandbook.com/
@@ -28,7 +28,7 @@ sections:
         title: Treatment & Rehabilitation
         price: £53
         actions:
-          - new_window: false
+          - new_window: true
             type: action
             url: https://vantage-chiropractic.selectandbook.com/
             primary: true
@@ -60,6 +60,7 @@ sections:
             type: action
             url: https://vantage-chiropractic.selectandbook.com/
             label: Book Now
+            primary: true
     title: Appointments
   - type: section_cta
     subtitle: " A note on accessibility - Vantage Chiropractic is based upstairs on
