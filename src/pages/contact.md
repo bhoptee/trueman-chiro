@@ -19,7 +19,16 @@ sections:
       #### Phone Number:
 
       01844 390210
-
+    image: /images/find-vantage-chiropractic.jpg
+    actions:
+      - new_window: true
+        type: action
+        url: https://goo.gl/maps/z3qxCGWZvHEtgZGR9
+        label: Google Maps - Vantage Chiropractic
+        primary: true
+  - type: section_content
+    background: gray
+    content: |-
       #### Opening Hours:
 
       **Mon:**
@@ -36,7 +45,6 @@ sections:
       **Friday**
       8-11am,
       1-4pm
-    image: /images/find-vantage-chiropractic.jpg
   - type: section_contact
     title: Contact
     section_id: contact
