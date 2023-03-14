@@ -11,14 +11,6 @@ sections:
       Thame\
       Oxfordshire\
       OX9 3SD
-
-      #### Email Address:
-
-      contact@vantagechiropractic.com
-
-      #### Phone Number:
-
-      01844 390210
     image: /images/find-vantage-chiropractic.jpg
     actions:
       - new_window: true
@@ -29,6 +21,16 @@ sections:
   - type: section_content
     background: gray
     content: |-
+      #### Email Address:
+
+      contact@vantagechiropractic.com
+
+      #### Phone Number:
+
+      01844 390210
+
+
+
       #### Opening Hours:
 
       **Mon:**
