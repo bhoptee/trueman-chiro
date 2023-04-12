@@ -19,14 +19,14 @@
 
       &:hover,
       &:focus {
-        color: _palette(primary);
+        color: _palette(clay);
       }
     }
   }
 }
 
 .post-subtitle {
-  border-bottom: 1px solid _palette(border);
+  border-bottom: 1px solid _palette(clay);
   font-size: 1.33333rem;
   line-height: 1.5;
   margin-bottom: 1.66667rem;

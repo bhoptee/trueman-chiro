@@ -1,5 +1,5 @@
 ---
-title: Vantage Chiropractic Blog - Chiropractic in Thame
-excerpt: Vantage Chiropractic - Chiropractic practice in Thame
+title: The Vantage Clinic Blog - Chiropractic in Thame
+excerpt: The Vantage Clinic - Chiropractic practice in Thame
 template: blog
 ---

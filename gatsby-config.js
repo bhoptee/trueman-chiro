@@ -2,7 +2,7 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     siteMetadata: {
-        siteUrl: `https://www.vantagechiropractic.com`,
+        siteUrl: `https://www.thevantageclinic.com`,
       },
     plugins: [
         `gatsby-plugin-react-helmet`,
@@ -45,7 +45,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-canonical-urls`,
             options: {
-                siteUrl: `https://www.vantagechiropractic.com`,
+                siteUrl: `https://www.thevantageclinic.com`,
             }
         },
         {

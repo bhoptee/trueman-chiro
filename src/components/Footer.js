@@ -50,7 +50,7 @@ export default class Footer extends React.Component {
                       <h2 className="widget-title">{_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_title', null)}</h2>
                       <h5 className="widget-subtitle">Email</h5>
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_email', null) && (
-                       <p><Link to="mailto:contact@vantagechiropractic.com">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_email', null))}</Link></p>
+                       <p><Link to="mailto:contact@thevantageclinic.com">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_email', null))}</Link></p>
                       )}
                        <h5 className="widget-subtitle">Phone</h5>
                        {_.get(this.props, 'pageContext.site.siteMetadata.footer.contact_phone', null) && (

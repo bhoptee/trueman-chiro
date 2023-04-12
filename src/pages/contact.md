@@ -1,6 +1,6 @@
 ---
 title: Contact
-excerpt: How to contact and find Vantage Chiropractic in Thame.
+excerpt: How to contact and find The Vantage Clinic in Thame.
 sections:
   - type: section_content
     background: white
@@ -16,14 +16,14 @@ sections:
       - new_window: true
         type: action
         url: https://goo.gl/maps/z3qxCGWZvHEtgZGR9
-        label: Google Maps - Vantage Chiropractic
+        label: Google Maps - The Vantage Clinic
         primary: true
   - type: section_content
     background: gray
     content: |-
       #### Email Address:
 
-      contact@vantagechiropractic.com
+      contact@thevantageclinic.com
 
       #### Phone Number:
 

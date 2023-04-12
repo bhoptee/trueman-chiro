@@ -1,16 +1,16 @@
 ---
 title: Chiropractic, Rehabilitation & Sports Injury
-excerpt: "At Vantage Chiropractic we specialise in the diagnosis and treatment
+excerpt: "At The Vantage Clinic we specialise in the diagnosis and treatment
   of musculoskeletal injury or pain. "
 sections:
   - type: section_hero
-    title: Welcome to Vantage Chiropractic
+    title: Welcome to The Vantage Clinic
     section_id: hero
     content: >-
       **Providing the vantage point of expert knowledge and experience**
 
 
-      At Vantage Chiropractic we specialise in the diagnosis and treatment of musculoskeletal injury or pain.
+      At The Vantage Clinic we specialise in the diagnosis and treatment of musculoskeletal injury or pain.
     image: /images/3.-treatment-image.jpg
     actions:
       - type: action
@@ -65,7 +65,7 @@ sections:
   - type: section_cta
     title: ""
     section_id: ""
-    subtitle: How Vantage Chiropractic is taking every precaution to provide a clean
+    subtitle: How The Vantage Clinic is taking every precaution to provide a clean
       and safe environment in these changing times.
     actions:
       - type: action

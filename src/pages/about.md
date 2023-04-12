@@ -1,12 +1,12 @@
 ---
 title: About
-excerpt: "At Vantage Chiropractic we’re about getting you back to what you want
+excerpt: "At The Vantage Clinic we’re about getting you back to what you want
   to do. Whether that’s sports, hobbies or just everyday life. "
 sections:
   - type: section_hero
-    title: About Vantage Chiropractic
+    title: About The Vantage Clinic
     content: >-
-      At Vantage Chiropractic we’re about getting you back to what you want to
+      At The Vantage Clinic we’re about getting you back to what you want to
       do. Whether that’s sports, hobbies or just everyday life. We are
       functionally orientated, meaning that we look to help how your body is
       working through:
@@ -35,7 +35,7 @@ sections:
           Thame, after completing his degree he moved to Liverpool taking an
           opportunity in a multidisciplinary clinic with excellent expertise in
           sports treatment and rehabilitation. He has since moved back to Thame
-          and set up his own clinic, Vantage Chiropractic. In his spare time
+          and set up his own clinic, The Vantage Clinic. In his spare time
           Mark enjoys keeping active with swimming, gym, outdoor activities and
           the occasional visit to the climbing wall. He also enjoys a good book
           and learning to play the piano.

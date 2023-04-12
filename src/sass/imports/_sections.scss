@@ -333,14 +333,14 @@ ul {
 }
 
 .plan-name {
-  color: _palette(primary);
+  color: _palette(vantage-green);
   font-size: 0.88889rem;
   font-weight: bold;
   margin: 0 0 1.66667rem;
 }
 
 .plan-price {
-  color: _palette(secondary);
+  color: _palette(clay);
   font-size: 2.44444rem;
   font-weight: bold;
   margin-bottom: 1.66667rem;
@@ -546,14 +546,64 @@ ul {
     .post-card-inside,
     .review-inside,
     .plan-inside {
-      box-shadow: 0 3px 10px 0 rgba(_palette(primary),.15);
+      box-shadow: 0 3px 10px 0 rgba(_palette(summit-blue),.15);
+    }
+  }
+
+  &.bg-clay-light {
+    background: _palette(clay-light);
+
+    .post-card-inside,
+    .review-inside,
+    .plan-inside {
+      box-shadow: 0 3px 10px 0 rgba(_palette(summit-blue),.15);
+    }
+  }
+
+  &.bg-clay {
+    background: _palette(clay);
+
+    .post-card-inside,
+    .review-inside,
+    .plan-inside {
+      box-shadow: 0 3px 10px 0 rgba(_palette(summit-blue),.15);
+    }
+  }
+
+  &.bg-summit-blue {
+    background: _palette(summit-blue);
+
+    .post-card-inside,
+    .review-inside,
+    .plan-inside {
+      box-shadow: 0 3px 10px 0 rgba(_palette(summit-blue),.15);
+    }
+  }
+
+  &.bg-rockface-gray {
+    background: _palette(rockface-gray);
+
+    .post-card-inside,
+    .review-inside,
+    .plan-inside {
+      box-shadow: 0 3px 10px 0 rgba(_palette(summit-blue),.15);
+    }
+  }
+
+  &.bg-rockface-light-gray {
+    background: _palette(roackface-light-gray);
+
+    .post-card-inside,
+    .review-inside,
+    .plan-inside {
+      box-shadow: 0 3px 10px 0 rgba(_palette(summit-blue),.15);
     }
   }
 
   &.bg-accent {
-    background: _palette(accent);
-    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    background: _palette(vantage-green);
+    background: -webkit-linear-gradient(left,_palette(vantage-green), _palette(vantage-light-green));
+    background: linear-gradient(to right,_palette(vantage-green), _palette(vantage-light-green));
     color: #fff;
 
     .block-title {
