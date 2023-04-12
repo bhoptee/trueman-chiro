@@ -21,7 +21,7 @@ sections:
           - new_window: true
             type: action
             label: Book now
-            url: https://vantage-chiropractic.selectandbook.com/
+            url: https://the-vantage-clinic.selectandbook.com/
             primary: true
       - highlight: true
         type: pricing_plan
@@ -30,7 +30,7 @@ sections:
         actions:
           - new_window: true
             type: action
-            url: https://vantage-chiropractic.selectandbook.com/
+            url: https://the-vantage-clinic.selectandbook.com/
             primary: true
             label: Book Now
         details: >-
@@ -58,7 +58,7 @@ sections:
         actions:
           - new_window: true
             type: action
-            url: https://vantage-chiropractic.selectandbook.com/
+            url: https://the-vantage-clinic.selectandbook.com/
             label: Book Now
             primary: true
     title: Appointments
