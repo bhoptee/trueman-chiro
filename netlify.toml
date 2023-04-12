@@ -1,3 +1,148 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/book-an-appointment/"
+ to = "https://www.thevantageclinic.com/book-an-appointment/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/covid-19/"
+ to = "https://www.thevantageclinic.com/covid-19/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/contact/"
+ to = "https://www.thevantageclinic.com/contact/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/conditions/"
+ to = "https://www.thevantageclinic.com/conditions/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/entry-arrangements/"
+ to = "https://www.thevantageclinic.com/entry-arrangements/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/"
+ to = "https://www.thevantageclinic.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/privacy/"
+ to = "https://www.thevantageclinic.com/privacy/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/blog/"
+ to = "https://www.thevantageclinic.com/blog/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/therapies/"
+ to = "https://www.thevantageclinic.com/therapies/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/blog/pelvic-stability-dysfunction/"
+ to = "https://www.thevantageclinic.com/blog/pelvic-stability-dysfunction/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com/about/"
+ to = "https://www.thevantageclinic.com/about/"
+  status = 301
+  force = true
+  
+  [[redirects]]
+  from = "https://vantagechiropractic.com"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/appointments/"
+ to = "https://thevantageclinic.com/appointments/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/book-an-appointment/"
+ to = "https://thevantageclinic.com/book-an-appointment/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/covid-19/"
+ to = "https://thevantageclinic.com/covid-19/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/contact/"
+ to = "https://thevantageclinic.com/contact/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/conditions/"
+ to = "https://thevantageclinic.com/conditions/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/entry-arrangements/"
+ to = "https://thevantageclinic.com/entry-arrangements/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/"
+ to = "https://thevantageclinic.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/privacy/"
+ to = "https://thevantageclinic.com/privacy/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/blog/"
+ to = "https://thevantageclinic.com/blog/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/therapies/"
+ to = "https://thevantageclinic.com/therapies/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/blog/pelvic-stability-dysfunction/"
+ to = "https://thevantageclinic.com/blog/pelvic-stability-dysfunction/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vantagechiropractic.com/about/"
+ to = "https://thevantageclinic.com/about/"
+  status = 301
+  force = true
+  
