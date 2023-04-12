@@ -1,8 +1,8 @@
 {
-  "title": "Vantage Chiropractic | Thame",
+  "title": "The Vantage Clinic | Thame",
   "header": {
     "type": "header",
-    "title": "Vantage Chiropractic in Thame",
+    "title": "The Vantage Clinic in Thame",
     "logo_img": "/images/logo-hori.png",
     "has_nav": true,
     "nav_links": [
@@ -56,12 +56,12 @@
     ]
   },
   "footer": {
-    "tagline": "Vantage Chiropractic, Thame",
+    "tagline": "The Vantage Clinic, Thame",
     "contact_phone": "01844 390210",
     "logo_img": "images/mono-vert.png",
     "has_social": false,
-    "contact_address": "Vantage Chiropractic, 3 Wenman Road, Thame, Oxfordshire, OX9 3SD",
-    "content": "&copy; 2022 Vantage Chiropractic, Thame. All rights reserved.",
+    "contact_address": "The Vantage Clinic, 3 Wenman Road, Thame, Oxfordshire, OX9 3SD",
+    "content": "&copy; 2023 The Vantage Clinic, Thame. All rights reserved.",
     "contact_title": "Contact us",
     "links": [],
     "type": "footer",
@@ -112,7 +112,7 @@
         "label": "Website Privacy Policy"
       }
     ],
-    "contact_email": "contact@vantagechiropractic.com",
+    "contact_email": "contact@thevantageclinic.com",
     "accreditation_img": "/images/gcc_registered_dark_white.png",
     "has_nav": true
   }

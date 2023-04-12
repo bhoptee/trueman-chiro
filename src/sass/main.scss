@@ -8,15 +8,24 @@ $font: (
 // Palette.
 $palette: (
   primary:           #454b4d,
-  secondary:         #1A5A63,
-  tertiary:          #50A7C7,
+  secondary:         #418D97,
+  tertiary:          #FFE1C8,
   quartinary:        #9AC4C2,
   quintinary:        #FBFEFF,
   meta:                #9AC4C2,
   border:              #9AC4C2,
   bg:                lighten(#454b4d, 60%),
-  accent:            #1A5A63,
+  accent:            #418D97,
   accent-alt:        #9AC4C2,
+  summit-blue:                  #223C60, // CTA button text (primary cta), button bg (secondary CTA), Footer
+  summit-blue-70:                lighten(#223C60, 70%),
+  vantage-green:                #418D97, // Headings, navigation links, pricing
+  vantage-light-green:          #9AC4C2, 
+  white:                        #ffffff,
+  rockface-gray:                #798381,
+  roackface-light-gray:         #B7BBBC,
+  clay-light:                   #FFE1C8,
+  clay:                         #E38778,
 );
 
 @import "imports/functions";

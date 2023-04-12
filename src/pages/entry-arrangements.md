@@ -4,7 +4,7 @@ excerpt: Entry Arrangements
 subtitle: ""
 template: page
 ---
-As a regulated health care profession Chiropractors are able to continue practicing during the national lockdown, with adherence to guidelines. Therefore Vantage Chiropractic is open for business as usual, with the exception of the entry arrangements, as the gym at the Invictus Fitness Centre will be closed during the national lockdown.
+As a regulated health care profession Chiropractors are able to continue practicing during the national lockdown, with adherence to guidelines. Therefore The Vantage Clinic is open for business as usual, with the exception of the entry arrangements, as the gym at the Invictus Fitness Centre will be closed during the national lockdown.
 
 **Entry Arrangements:** 
 

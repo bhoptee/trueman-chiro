@@ -10,8 +10,8 @@ html {
 }
 
 body {
-  background: _palette(bg);
-  color: _palette(primary);
+  background: _palette(summit-blue-70);
+  color: _palette(summit-blue);
   line-height: 1.66667;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -20,15 +20,15 @@ body {
 a {
   font-weight: 600;
   border-bottom: 1px solid currentColor;
-  color: _palette(primary);
+  color: _palette(summit-blue);
   text-decoration: none;
   -webkit-transition: border-color .15s ease-in-out, color .15s ease-in-out;
   transition: border-color .15s ease-in-out, color .15s ease-in-out;
 
   &:hover,
   &:focus {
-    border-color: _palette(accent);
-    color: _palette(accent);
+    border-color: _palette(roackface-light-gray);
+    color: _palette(roackface-light-gray);
   }
 }
 
@@ -39,7 +39,7 @@ h4,
 h5,
 h6 {
   font-family: _font(primary);
-  color: _palette(secondary);
+  color: _palette(summit-blue);
   font-weight: bold;
   line-height: 1.2;
   margin: 2.5rem 0 0.83333rem;
@@ -253,9 +253,9 @@ input[type="reset"],
 a.button {
   font-family: _font(primary);
   font-weight: 900;
-  background: _palette(accent);
+  background: _palette(clay);
   border-radius: 3px;
-  border: 2px solid _palette(accent);
+  border: 2px solid _palette(clay);
   box-sizing: border-box;
   color: #fff;
   display: inline-block;
@@ -265,12 +265,16 @@ a.button {
   padding: 0.5em 30px;
   -webkit-transition: opacity .15s ease-in-out;
   transition: opacity .15s ease-in-out;
+  -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
+  transition: background-color .2s ease-in-out, color .2s ease-in-out;
 
   &:hover,
   &:focus,
   &:active {
-    opacity: 0.75;
-    outline: 0;
+    background: transparent;
+    color:_palette(clay);
+    border: 2px solid _palette(clay);
+    opacity: 1;
   }
 }
 
@@ -293,8 +297,9 @@ a.button.large {
 }
 
 .button.secondary {
-  background: _palette(primary);
-  color: _palette(bg);
+  background: _palette(summit-blue);
+  color: _palette(white);
+  border: 2px solid _palette(summit-blue);
   -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 
@@ -302,7 +307,8 @@ a.button.large {
   &:focus,
   &:active {
     background: transparent;
-    color:_palette(secondary);
+    color:_palette(clay);
+    border: 2px solid _palette(clay);
     opacity: 1;
   }
 }
@@ -311,7 +317,7 @@ a.button.large {
   background: #fff;
   border-color: transparent;
   box-shadow: 0 20px 30px 0 rgba(_palette(primary),.2);
-  color: _palette(primary);
+  color: _palette(summit-blue);
   -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 

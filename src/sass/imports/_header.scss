@@ -4,7 +4,7 @@
  */
 .site-header {
   background: #fff;
-  color: _palette(secondary);
+  color: _palette(summit-blue);
   padding-bottom: 1.33333em;
   padding-top: 1.33333em;
 }
@@ -63,7 +63,7 @@
     margin: 0 0 0 30px;
 
     &.current-menu-item {
-      color: _palette(meta);
+      color: _palette(clay);
     }
   }
 
@@ -77,7 +77,7 @@
     &:hover,
     &:focus,
     &:active {
-      color: _palette(meta);
+      color: _palette(vantage-green);
       text-decoration: underline;
     }
   }
@@ -126,7 +126,7 @@
   }
 
   .site-header:before {
-    background: rgba(_palette(bg),.75);
+    background: rgba(_palette(summit-blue-70),.75);
     content: "";
     height: 100vh;
     left: 0;
