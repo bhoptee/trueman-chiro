@@ -1,3 +1,9 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
+
+[[redirects]]
+  from = "https://www.vantagechiropractic.com"
+  to = "/"
+  status = 301
+  force = true
