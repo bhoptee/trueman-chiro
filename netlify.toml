@@ -4,7 +4,7 @@ command = "./stackbit-build.sh"
 
 [[redirects]]
   from = "https://www.vantagechiropractic.com"
-  to = "/"
+  to = "https://www.thevantageclinic.com/"
   status = 301
   force = true
 
@@ -44,11 +44,6 @@ command = "./stackbit-build.sh"
   status = 301
   force = true
 
-[[redirects]]
-  from = "https://www.vantagechiropractic.com/"
- to = "https://www.thevantageclinic.com/"
-  status = 301
-  force = true
 
 [[redirects]]
   from = "https://www.vantagechiropractic.com/privacy/"
@@ -79,10 +74,10 @@ command = "./stackbit-build.sh"
  to = "https://www.thevantageclinic.com/about/"
   status = 301
   force = true
-
+  
   [[redirects]]
-  from = "https://vantagechiropractic.com"
-  to = "/"
+  from = "https://vantagechiropractic.com/"
+ to = "https://thevantageclinic.com/"
   status = 301
   force = true
 
