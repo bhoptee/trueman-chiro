@@ -35,7 +35,7 @@ function SEO({ description, image, title, author }) {
                 },
                 {
                     property: 'og:image',
-                    content: image
+                    content: '/images/sharing-default.jpg'
                 },
                 {
                     name: 'twitter:card',
