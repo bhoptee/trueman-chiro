@@ -1,7 +1,7 @@
 ---
 title: Chiropractic, Rehabilitation & Sports Injury
-excerpt: "At The Vantage Clinic we specialise in the diagnosis and treatment
-  of musculoskeletal injury or pain. "
+excerpt: "At The Vantage Clinic we specialise in the diagnosis and treatment of
+  musculoskeletal injury or pain. "
 sections:
   - type: section_hero
     title: Welcome to The Vantage Clinic
@@ -16,6 +16,10 @@ sections:
       - type: action
         label: Learn More
         url: /about/
+  - type: section_features
+    background: white
+    subtitle: "The Clinic is closed 29th May-2nd June 2023. Online booking is
+      available for the following week. "
   - type: section_features
     title: ""
     section_id: ""
