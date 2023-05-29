@@ -18,8 +18,8 @@ sections:
         url: /about/
   - type: section_features
     background: white
-    subtitle: "The Clinic is closed 29th May-2nd June 2023. Online booking is
-      available for the following week. "
+    subtitle: "The Vantage Clinic is closed Mon 29th May- Fri 2nd June 2023. Online
+      booking is available for the following week onwards. "
   - type: section_features
     title: ""
     section_id: ""
