@@ -17,6 +17,10 @@ sections:
         label: Learn More
         url: /about/
   - type: section_features
+    background: gray
+    subtitle: "The clinic re-opens on Thursday 4th January, online booking is
+      available. "
+  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
