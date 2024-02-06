@@ -77,7 +77,7 @@ sections:
         details: |-
           **25 Minutes**
 
-          Assessment & Diagnosis
+          Assessment, diagnosis & treatment.
 
           *Requires you to have attended an Initial Consultation*
       - highlight: true
