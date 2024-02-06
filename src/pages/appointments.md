@@ -8,7 +8,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: Initial Consultation
-        price: £70
+        price: £75
         details: >-
           **50 Minutes**
 
@@ -26,7 +26,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: Treatment & Rehabilitation
-        price: £53
+        price: £55
         actions:
           - new_window: true
             type: action
@@ -46,7 +46,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: Double Session - Treatment & Rehabilitation
-        price: £106
+        price: £110
         details: >-
           **50 Minutes**
 
@@ -73,7 +73,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: New Complaint
-        price: £53
+        price: £55
         details: |-
           **25 Minutes**
 
@@ -91,7 +91,7 @@ sections:
 
           Non-gym members additional £5 gym entry fee
         title: Gym Based Assessment 1
-        price: £53
+        price: £55
         actions:
           - new_window: false
             type: action
@@ -101,7 +101,7 @@ sections:
       - highlight: true
         type: pricing_plan
         title: Gym Based Assessment 2
-        price: £106
+        price: £110
         details: |-
           **50 Minutes**
 
