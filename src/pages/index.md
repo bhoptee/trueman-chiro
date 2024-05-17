@@ -18,8 +18,8 @@ sections:
         url: /about/
   - type: section_features
     background: gray
-    subtitle: "The clinic is closed for annual leave until Tuesday 28th May. Online
-      booking is availalbe. "
+    subtitle: "The clinic is closed for annual leave between 18th-27th May, opening
+      on Tuesday 28th May. Online booking is availalbe. "
   - type: section_features
     title: ""
     section_id: ""
