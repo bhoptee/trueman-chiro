@@ -17,10 +17,6 @@ sections:
         label: Learn More
         url: /about/
   - type: section_features
-    background: gray
-    subtitle: "The clinic is closed for annual leave between 18th-27th May, opening
-      on Tuesday 28th May. Online booking is availalbe. "
-  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
