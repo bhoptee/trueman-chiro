@@ -29,13 +29,11 @@ sections:
 
       01844 390210
 
-
-
       #### Opening Hours:
 
       **Mon:**
       9am-12pm,
-      4-7pm\
+      3-6pm\
       **Tuesday**
       9am-12pm,
       3-6pm\
@@ -46,7 +44,7 @@ sections:
       3-6pm\
       **Friday**
       8-11am,
-      1-4pm
+      2-4pm
   - type: section_contact
     title: Contact
     section_id: contact
