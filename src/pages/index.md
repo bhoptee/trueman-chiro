@@ -17,6 +17,11 @@ sections:
         label: Learn More
         url: /about/
   - type: section_features
+    background: white
+    subtitle: "The clinic is closed for annual leave / holiday from 2nd-18th August
+      2024. The clinic reopens on Monday 19th August, online booking is
+      availalbe. "
+  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
