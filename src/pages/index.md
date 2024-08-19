@@ -21,7 +21,7 @@ sections:
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
       to improve movement, reduce pain and optimise performance.
-    background: gray
+    background: white
     features:
       - type: feature_item
         title: Treatment Services
