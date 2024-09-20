@@ -29,22 +29,23 @@ sections:
 
       01844 390210
 
-      #### Opening Hours:
+      #### Opening Hours Clinical:
 
       **Mon:**
-      9am-12pm,
-      3-6pm\
+      3pm-6pm\
       **Tuesday**
-      9am-12pm,
-      3-6pm\
+      3pm-6pm\
       **Wednesday**
-      closed\
+      9am- 12pm/ noon\
       **Thursday** 
-      9am-12pm,
-      3-6pm\
+      3pm-6pm\
       **Friday**
-      8-11am,
-      2-4pm
+      9am-12pm/ noon
+
+
+      #### Contact / correspondance hours - email, phone
+
+      **Mon-Fri** 9am-6pm
   - type: section_contact
     title: Contact
     section_id: contact
