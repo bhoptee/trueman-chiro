@@ -31,21 +31,16 @@ sections:
 
       #### Opening Hours Clinical:
 
-      **Mon:**
-      3pm-6pm\
-      **Tuesday**
-      3pm-6pm\
-      **Wednesday**
-      9am- 12pm/ noon\
-      **Thursday** 
-      3pm-6pm\
-      **Friday**
-      9am-12pm/ noon
-
+      **Monday:** 3pm-6pm\
+      **Tuesday:** 3pm-6pm\
+      **Wednesday:** 9am- 12pm/ noon\
+      **Thursday:** 3pm-6pm\
+      **Friday:** 9am-12pm/ noon
 
       #### Contact / correspondance hours - email, phone
 
-      **Mon-Fri** 9am-6pm
+      **Mon, Tues, Thurs:** 9am-6pm \
+      **Wed, Fri:** 9am-4pm
   - type: section_contact
     title: Contact
     section_id: contact
