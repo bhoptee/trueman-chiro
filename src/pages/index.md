@@ -18,9 +18,9 @@ sections:
         url: /about/
       - new_window: true
         type: action
-        label: Book here
+        label: Book Here
         url: https://the-vantage-clinic.selectandbook.com/
-        primary: true
+        primary: false
   - type: section_features
     title: ""
     section_id: ""
