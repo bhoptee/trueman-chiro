@@ -22,10 +22,6 @@ sections:
         url: https://the-vantage-clinic.selectandbook.com/
         primary: false
   - type: section_features
-    background: gray
-    subtitle: "The clinic is closed for annual leave until Tuesday 10th June. Online
-      booking is available. "
-  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
