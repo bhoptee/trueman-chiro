@@ -23,12 +23,12 @@ sections:
         primary: false
   - type: section_features
     background: gray
-    subtitle: The Vantage Clinic is closed from 20th Dec - 4th Jan, reopening on
-      Monday 5th Jan. Online booking is available for the New Year. Merry
-      Christmas & a happy New Year from the The Vantage Clinic.
+    subtitle: "The Vantage Clinic is closed from 20th Dec - 4th Jan, reopening on
+      Monday 5th Jan. Online booking is available for the New Year. "
     features:
       - type: feature_item
-        image: /images/3049.jpg
+        image: /images/christmas-tree-decorated-with-ornaments-public-space.jpg
+        content: Merry Christmas & a happy New Year from the The Vantage Clinic.
   - type: section_features
     title: ""
     section_id: ""
@@ -62,13 +62,13 @@ sections:
         content: >-
           * Assists in learning exercises and improving technique
 
-          * Inclusive service at no additional cost to standard consultation / appointment fees
+          * Inclusive service at no additional cost to standard appointment fees
 
           * Accessible by web browser on PC or by App on smart device - phone or tablet (both Apple & Android)
 
-          * Ability to set reminders / alerts from the App to do exercises
+          * Ability to set reminders from the App to do exercises
 
-          * PDF / paper version downloadable for future reference
+          * PDF version downloadable for future reference
 
           * Coached through exercises as needed in person by your Chiropractor
   - type: section_posts
