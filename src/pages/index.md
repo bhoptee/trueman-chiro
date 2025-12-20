@@ -25,7 +25,7 @@ sections:
     background: gray
     subtitle: The Vantage Clinic is closed from 20th Dec - 4th Jan, reopening on
       Monday 5th Jan. Online booking is available for the New Year. Merry
-      Christmas & a Happy New Year from the The Vantage Clinic.
+      Christmas & a Happy New Year from The Vantage Clinic.
     features: []
   - type: section_features
     title: ""
