@@ -22,6 +22,12 @@ sections:
         url: https://the-vantage-clinic.selectandbook.com/
         primary: false
   - type: section_features
+    background: gray
+    subtitle: The Vantage Clinic is closed from 20th Dec - 4th Jan, reopening on
+      Monday 5th Jan. Online booking is available for the New Year. Merry
+      Christmas & a happy New Year from the The Vantage Clinic.
+    features: []
+  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
