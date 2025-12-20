@@ -27,8 +27,8 @@ sections:
       Monday 5th Jan. Online booking is available for the New Year. "
     features:
       - type: feature_item
-        image: /images/christmas-tree-decorated-with-ornaments-public-space.jpg
-        content: Merry Christmas & a happy New Year from the The Vantage Clinic.
+        image: /images/2-christmas-tree-decorated-with-ornaments-public-space.png
+        content: Merry Christmas & a Happy New Year from the The Vantage Clinic.
   - type: section_features
     title: ""
     section_id: ""
