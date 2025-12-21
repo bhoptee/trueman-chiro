@@ -28,7 +28,7 @@ sections:
     features:
       - type: feature_item
         image: /images/3-christmas-tree-decorated-with-ornaments-public-space.png
-        content: Merry Christmas & a Happy New Year from The Vantage Clinic.
+        content: "*Merry Christmas & a Happy New Year from The Vantage Clinic.*"
   - type: section_features
     title: ""
     section_id: ""
