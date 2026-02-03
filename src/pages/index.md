@@ -73,7 +73,7 @@ sections:
           * Vitality
           * WPA
           * AXA PPP
-        image: /images/insurers-medical-box.png
+        image: /images/insurers-medical.png
   - type: section_posts
     background: gray
     title: Articles & Blog Posts
