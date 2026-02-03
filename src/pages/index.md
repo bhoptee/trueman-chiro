@@ -61,7 +61,7 @@ sections:
     title: Individualised Video Based Rehabilitation Program
     features:
       - type: feature_item
-        image: /images/insurers-medical.png
+        image: /images/physiapp-large.png
         content: >-
           * Assists in learning exercises and improving technique
 
