@@ -63,6 +63,17 @@ sections:
           * PDF version downloadable for future reference
 
           * Coached through exercises as needed in person by your Chiropractor
+  - type: section_features
+    background: gray
+    title: Medical Insurer Registered
+    features:
+      - type: feature_item
+        content: |-
+          * Aviva
+          * Vitality
+          * WPA
+          * AXA PPP
+        image: /images/insurers-medical-box.png
   - type: section_posts
     background: gray
     title: Articles & Blog Posts
