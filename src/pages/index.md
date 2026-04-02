@@ -24,7 +24,7 @@ sections:
   - type: section_features
     background: gray
     subtitle: "The clinic is closed for annual leave from Fri 3rd April - Sun 12th
-      April, opening Mon 13th, online booking is available.  Have a Happy
+      April, opening Mon 13th. Online booking is available.  Have a Happy
       Easter! "
   - type: section_features
     title: ""
