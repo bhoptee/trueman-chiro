@@ -79,6 +79,12 @@
         "url": "/appointments/"
       },
       {
+        "new_window": true,
+        "type": "action",
+        "label": "Parking",
+        "url": "/parking/"
+      },
+      {
         "type": "action",
         "label": "Conditions",
         "url": "/conditions/"
@@ -97,13 +103,8 @@
       {
         "type": "action",
         "label": "Book an Appointment",
-        "url": "https://vantage-chiropractic.selectandbook.com/"
-      },
-      {
-        "new_window": false,
-        "type": "action",
-        "label": "COVID-19 Strategy",
-        "url": "/covid-19/"
+        "url": "https://vantage-chiropractic.selectandbook.com/",
+        "new_window": false
       },
       {
         "new_window": true,
