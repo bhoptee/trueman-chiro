@@ -22,6 +22,19 @@ sections:
         url: https://the-vantage-clinic.selectandbook.com/
         primary: false
   - type: section_features
+    background: gray
+    subtitle: ""
+    features:
+      - type: feature_item
+        content: >-
+          PARKING - The Invictus Fitness Centre (IFC) in which The Vantage
+          Clinic is located is having it's roof changed. This is due to
+          recurrent issues with leaks & temperature control (too cold in the
+          winter, too hot in the summer). 
+
+
+          As a result the parking at IFC will not be available for the 4-6 weeks of this process whilst construction equipment is located there. This process starts 20th April & if running 6 weeks aims to end on 1st June. Click here for alternative parking locations.
+  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
