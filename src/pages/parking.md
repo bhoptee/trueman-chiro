@@ -3,7 +3,7 @@ title: Parking
 excerpt: Parking whilst ongoing work to 1st June
 template: page
 ---
-Invictus Fitness Centre parking is unavailable 20th April onwards for 4-6 weeks (6 weeks being until 1st June), due to re-roofing work. 
+Invictus Fitness Centre parking (in which TVC is located) is unavailable 20th April onwards for 4-6 weeks (6 weeks being until 1st June), due to re-roofing work. 
 
 There is on street parking at Dormer Road, which is 2 units over from the Invictus Fitness Center. Bear in mind, it is likely to be busy with Gym members parking here also. If you drive to the clinic it is advised to leave extra time to allow for finding a parking spot. 
 
