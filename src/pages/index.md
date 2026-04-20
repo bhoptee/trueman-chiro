@@ -28,8 +28,8 @@ sections:
       - type: feature_item
         content: "**PARKING** - Invictus Fitness Centre (IFC) parking is unavailable
           20th April- 1st June 2026 (TVC is located within IFC). Construction
-          work is being undertaken to replace the roof due to recurrent issues
-          with leaks & temperature control. Click for"
+          work is being undertaken to replace the external roof in stages. TVC
+          opening hours are unchanged. Click for"
         actions:
           - new_window: true
             type: action
