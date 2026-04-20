@@ -5,7 +5,7 @@ template: page
 ---
 Invictus Fitness Centre (IFC) parking is unavailable 20th April- 1st june 2026 (TVC is located within IFC). Construction work is being undertaken to replace the roof due to recurrent issues with leaks & temperature control. 
 
-There is on street parking at Dormer Road, which is 2 units over from the Invictus Fitness Center. Bear in mind, it is likely to be busy with Gym members parking here also. If you drive to the clinic it is advised to leave extra time to allow for finding a parking spot. 
+There is on street parking at Dormer Road, which is 2 units over from the IFC. Bear in mind, it is likely to be busy with gym members parking here also. If you drive to the clinic it is advised to leave extra time to allow for finding a parking spot. 
 
 Google maps pins. 
 
