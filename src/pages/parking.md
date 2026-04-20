@@ -3,7 +3,7 @@ title: Parking
 excerpt: Parking whilst ongoing work to 1st June
 template: page
 ---
-Invictus Fitness Centre Parking unavailable 20th April onwards for 4-6 weeks (6 weeks being until 1st June)
+Invictus Fitness Centre Parking is unavailable 20th April onwards for 4-6 weeks (6 weeks being until 1st June)
 
 There is on street parking at Dormer Road, which is 2 units over from the Invictus Fitness Center. Bear in mind, it is likely to be busy with Gym members parking here also. If you drive to the clinic it is advised to leave extra time to allow for finding a parking spot. 
 
