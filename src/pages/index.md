@@ -55,7 +55,7 @@ sections:
         image: /images/1.-anatomy-1.jpg
         actions:
           - type: action
-            label: Learn More
+            label: Our Therapies
             url: /therapies/
             primary: false
             new_window: false
