@@ -14,7 +14,7 @@ sections:
     image: /images/3.-treatment-image.jpg
     actions:
       - type: action
-        label: Learn More
+        label: About Us
         url: /about/
       - new_window: true
         type: action
