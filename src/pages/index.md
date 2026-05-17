@@ -26,15 +26,9 @@ sections:
     subtitle: ""
     features:
       - type: feature_item
-        content: "**PARKING** - Invictus Fitness Centre (IFC) parking is unavailable
-          20th April- 1st June 2026 (TVC is located within IFC). Construction
-          work is being undertaken to replace the external roof in stages. TVC
-          opening hours are unchanged. Click for"
-        actions:
-          - new_window: true
-            type: action
-            url: /parking/
-            label: Alternative parking
+        content: The clinic is closed for annual leave from Sat 16 May - Sun 31st May,
+          opening Mon 1st June. Online booking is available.
+        actions: []
   - type: section_features
     title: ""
     section_id: ""
