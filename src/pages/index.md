@@ -26,7 +26,7 @@ sections:
     subtitle: ""
     features:
       - type: feature_item
-        content: The clinic is closed for annual leave from Sat 16 May - Sun 31st May,
+        content: The clinic is closed for annual leave from Sat 16th May - Sun 31st May,
           opening Mon 1st June. Online booking is available.
         actions: []
   - type: section_features
