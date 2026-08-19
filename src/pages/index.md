@@ -22,10 +22,6 @@ sections:
         url: https://the-vantage-clinic.selectandbook.com/
         primary: false
   - type: section_features
-    background: gray
-    subtitle: "The clinic is closed for annual leave from Sat 8th Aug - Wed 19th
-      Aug, opening Thurs 20th Aug. Online booking is available. "
-  - type: section_features
     title: ""
     section_id: ""
     subtitle: Individualised assessment and the integration of treatment techniques
