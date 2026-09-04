@@ -13,7 +13,7 @@ sections:
           **50 Minutes**
 
 
-          Assessment, Diagnosis and Treatment
+          Assessment, Diagnosis, Treatment & Exercise prescription
 
 
           *When booking online you will* receive *a secure digital Initial Consultation Form to fill in prior to your appointment.*
