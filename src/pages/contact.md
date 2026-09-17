@@ -53,7 +53,7 @@ sections:
       times parking becomes less available. 
 
 
-      There is on street parking at Dormer Road, which is 3 units over from the IFC. 
+      There is also on street parking at Dormer Road, which is 3 units over from the IFC. 
 
 
       Google maps pin -[ https://maps.app.goo.gl/​uBGtFUyZ56WgDboF6](https://maps.app.goo.gl/uBGtFUyZ56WgDboF6)
