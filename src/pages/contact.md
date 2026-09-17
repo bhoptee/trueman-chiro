@@ -46,5 +46,17 @@ sections:
     section_id: contact
     content: ""
     background: gray
+  - type: section_content
+    background: gray
+    content: >-
+      There is parking at the Invictus Fitness centre (IFC), however at peak gym
+      times parking becomes less available. 
+
+
+      There is on street parking at Dormer Road, which is 3 units over from the IFC. 
+
+
+      Google maps pin -[ https://maps.app.goo.gl/​uBGtFUyZ56WgDboF6](https://maps.app.goo.gl/uBGtFUyZ56WgDboF6)
+    title: Parking
 template: landing
 ---
