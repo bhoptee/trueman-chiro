@@ -21,11 +21,11 @@ sections:
   - type: section_content
     background: white
     content: >-
-      **Parking:** There is parking at the Invictus Fitness Centre, however at
-      peak gym times parking becomes less available. 
+      **Parking:** There is parking at the Invictus Fitness Centre, at peak gym
+      times parking becomes less available. 
 
 
-      There is also on street parking at Dormer Road, which is 3 units over from the Invictus Fitness Centre.
+      There is also on street parking at Dormer Road, which is a side road 3 units over from the Invictus Fitness Centre.
     title: ""
     actions:
       - new_window: true
