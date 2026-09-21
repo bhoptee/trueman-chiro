@@ -57,7 +57,7 @@ sections:
 
       **Mon, Tues, Thurs:** 9am-6pm \
       **Wed, Fri:** 9am-4pm
-    title: Contact
+    title: ""
   - type: section_contact
     title: Contact Form
     section_id: contact
