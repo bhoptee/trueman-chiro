@@ -53,12 +53,13 @@ sections:
       **Thursday:** 3pm-6pm\
       **Friday:** 9am-12pm/ noon
 
-      #### Contact / correspondance hours - email, phone
+      #### Contact / correspondence hours - email, phone
 
       **Mon, Tues, Thurs:** 9am-6pm \
       **Wed, Fri:** 9am-4pm
-  - type: section_contact
     title: Contact
+  - type: section_contact
+    title: Contact Form
     section_id: contact
     content: ""
     background: gray
