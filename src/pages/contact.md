@@ -19,20 +19,22 @@ sections:
         label: Google Maps - The Vantage Clinic
         primary: true
   - type: section_content
-    background: gray
+    background: white
     content: >-
-      There is parking at the Invictus Fitness centre, however at peak gym times
-      parking becomes less available. 
+      **Parking:** 
+
+
+      There is parking at the Invictus Fitness centre, however at peak gym times parking becomes less available. 
 
 
       There is also on street parking at Dormer Road, which is 3 units over from the Invictus Fitness Centre.
-    title: Parking
+    title: ""
     actions:
       - new_window: true
         type: action
         url: "[https://maps.app.goo.gl/​uBGtFUyZ56WgDboF6](https://maps.app.goo.gl/uBGt\
           FUyZ56WgDboF6)"
-        primary: false
+        primary: true
         label: Google Maps - Dormer Road
   - type: section_content
     background: gray
