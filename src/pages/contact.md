@@ -30,8 +30,7 @@ sections:
     actions:
       - new_window: true
         type: action
-        url: "[https://maps.app.goo.gl/​uBGtFUyZ56WgDboF6](https://maps.app.goo.gl/uBGt\
-          FUyZ56WgDboF6)"
+        url: https://maps.app.goo.gl/JpVVpBMX9zGZRbeD9
         primary: true
         label: Google Maps - Dormer Road
   - type: section_content
